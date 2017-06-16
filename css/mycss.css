@@ -1,0 +1,14 @@
+h1{
+    font-weight: bold;
+    color: darkslateblue;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: palevioletred
+}
+
+#thumbnail-1{
+    margin-left: 80px;
+    margin-right: 80px;
+}

@@ -1,0 +1,34 @@
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
+
+
+<h2>fancyBox - Display thumbnails on start</h2>
+
+<a href="https://c1.staticflickr.com/9/8148/29324593462_abebaddc38_k.jpg" data-fancybox="images">
+    <img src="https://c1.staticflickr.com/9/8148/29324593462_f890687b7a_m.jpg" />
+</a>
+
+<a href="https://c2.staticflickr.com/6/5499/30972532232_051e1dc57e_h.jpg" data-fancybox="images">
+    <img src="https://c2.staticflickr.com/6/5499/30972532232_e9a298a0c5_m.jpg" />
+</a>
+
+<a href="https://c1.staticflickr.com/9/8021/29345513551_0c565462d8_k.jpg" data-fancybox="images">
+    <img src="https://c1.staticflickr.com/9/8021/29345513551_16024a89e3_m.jpg" />
+</a>
+
+
+<script>
+    // Photo Gallery Demo
+    $('[data-fancybox="images"]').fancybox({
+        thumbs: {
+            showOnStart: true
+        }
+    })
+
+</script>

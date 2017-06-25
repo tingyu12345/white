@@ -20,7 +20,7 @@
     <title>Nikki～新娘秘書/整體造型</title>
 
 
-    <meta property="og:url" content="https://superwhite/weddding" />
+    <meta property="og:url" content="http://superwhite.ml/weddding" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Nikki 柯寶～新娘秘書/整體造型" />
     <meta property="og:image" content="" />
@@ -39,12 +39,15 @@
     <link rel="icon" href="/Content/AssetsBS3/img/favicon.ico">-->
 
     <!-- 3rd Fonts -->
-    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="./css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <!-- theme -->
     <link href="./css/fancybox.css" rel="stylesheet" type="text/css">
     <link href="./css/business-casual.css" rel="stylesheet" type="text/css">
     <!-- scrolling nav -->
     <link href="./css/scrolling-nav.css" rel="stylesheet" type="text/css">
+    <!-- animation_WOW-->
+    <link href="./css/animate.css" rel="stylesheet" type="text/css">
+
 
     <!-- gotop button style -->
     <style>
@@ -157,21 +160,20 @@
             <div class="row">
                 <div class="box">
                     <hr class="half-rule">
-                    <h2 class="intro-text text-center">簡單優雅的造型風格，妝感自然乾淨！
-                    </h2>
+                    <h2 class="intro-text text-center wow fadeIn">簡單優雅的造型風格，妝感自然乾淨！</h2>
                     <hr class="half-rule">
                     <div class="row">
                         <div class="col-sm-4 text-center">
-                            <img src="img/girl.jpg" alt="" class="img-responsive">
-                            <h3>新娘秘書</h3>
+                            <img src="img/girl.jpg" alt="" class="img-responsive wow bounceInLeft">
+                            <h3 class="text-center wow bounceInLeft">新娘秘書</h3>
                         </div>
                         <div class="col-sm-4 text-center">
-                            <img src="img/makeup-1.jpg" alt="" class="img-responsive">
-                            <h3 class="text-center">個人彩妝教學</h3>
+                            <img src="img/makeup-1.jpg" alt="" class="img-responsive wow bounceInUp">
+                            <h3 class="text-center wow bounceInUp">個人彩妝教學</h3>
                         </div>
                         <div class="col-sm-4 text-center">
-                            <img src="img/flower-1.jpg" alt="" class="img-responsive">
-                            <h3 class="text-center">手作花飾品</h3>
+                            <img src="img/flower-1.jpg" alt="" class="img-responsive wow bounceInRight">
+                            <h3 class="text-center wow bounceInRight">手作花飾品</h3>
                         </div>
                     </div>
                 </div>
@@ -284,16 +286,16 @@
                     <hr class="half-rule">
                     <div class="col-md-12">
                         <div class="col-md-6">
-                            <img src="img/kobo-1.jpg" alt="" class="img-responsive img-circle" width="200" height="200">
+                            <img src="img/kobo-1.jpg" alt="" class="img-responsive img-circle wow bounce" width="200" height="200">
 
                             <p>我喜歡簡單又優雅的造型風格,妝感喜愛自然乾淨</p>
                             <hr>
-                            <p><span class="glyphicon glyphicon-map-marker"></span>Tainan, TW</p>
-                            <p><span class="glyphicon glyphicon-phone"></span>連絡電話: 0956106735</p>
-                            <p><span class="glyphicon glyphicon-envelope"></span>Email:
+                            <p class="wow bounceIn"><span class="glyphicon glyphicon-map-marker"></span>Tainan, TW</p>
+                            <p class="wow bounceIn"><span class="glyphicon glyphicon-phone"></span>連絡電話: 0956106735</p>
+                            <p class="wow bounceIn"><span class="glyphicon glyphicon-envelope"></span>Email:
                                 <a href="mailto:kobo7151@yahoo.com.tw">kobo7151@yahoo.com.tw</a></p>
-                            <p><span class="glyphicon glyphicon-arrow-right"></span>Line: konikki</p>
-                            <a href="http://line.me/ti/p/T4A5L4HreI" target="_blank"><img src="img/line icon/share-b.png" width="60px" height="60px" alt="用LINE傳送" /></a>
+                            <p class="wow bounceIn"><span class="glyphicon glyphicon-arrow-right"></span>Line: konikki</p>
+                            <a href="http://line.me/ti/p/T4A5L4HreI" target="_blank"><img class="wow bounceIn" src="img/line icon/share-b.png" width="60px" height="60px" alt="用LINE傳送" /></a>
                             <!--gooele map-->
                             <div id="googleMap" style="width:100%;height:400px"></div>
                         </div>
@@ -301,7 +303,7 @@
                             <p>
                                 有任何彩妝或造型上的需求要我連絡活動，請使用以下表格。
                             </p>
-                            <form role="form" action="https://getform.org/f/6322705e-154e-4531-88ed-77438b2e4be1" method="POST">
+                            <form class="wow fadeInRight" role="form" action="https://getform.org/f/6322705e-154e-4531-88ed-77438b2e4be1" method="POST">
                                 <div class="form-group">
                                     <label>姓名(Name)</label>
                                     <input type="name" name="name" class="form-control" placeholder="姓名" required>
@@ -460,6 +462,11 @@
 
     <script type="text/javascript">
         LineIt.loadButton();
+    </script>
+
+    <script src="js/wow.min.js"></script>
+    <script>
+        new WOW().init();
     </script>
 </body>
 

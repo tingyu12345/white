@@ -25,3 +25,21 @@
 
 ## My main concern is that... (我主要擔心的是...)##
 - 📝 *My main concern is that we are not doing enough to protect the environment. (我主要擔心的是我們沒有做足夠的事情來保護環境。)*
+
+## now I'd like to begin with... (現在我想從...開始)##
+- 📝 *Now I'd like to begin with the importance of education in our society. (現在我想從教育在我們社會中的重要性開始。)*
+
+## I'd like to start by looking at... (我想先看看...)##
+- 📝 *I'd like to start by looking at the benefits of learning a second language. (我想先看看學習第二語言的好處。)*
+
+## I'm going to move on to... (我將繼續...)##
+- 📝 *I'm going to move on to discussing the impact of social media on communication. (我將繼續討論社交媒體對交流的影響。)*
+
+## To the end with... (最後...)##
+- 📝 *To the end with the conclusion that we need to adapt to changing circumstances. (最後得出結論，我們需要適應不斷變化的環境。)*
+
+## Please feel free to ask me any questions. (請隨時問我任何問題。)##
+- 📝 *Please feel free to ask me any questions about the topic. (請隨時問我任何關於這個主題的問題。)*
+
+
+

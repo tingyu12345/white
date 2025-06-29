@@ -1,4 +1,4 @@
-## 喜歡的句子
+ ## 喜歡的句子
 
  
 ## I strongly believe that... (我堅信...)##
@@ -8,7 +8,7 @@
 - 📝 *In my view, teamwork is essential for achieving goals. (在我看來，團隊合作對於實現目標至關重要。)*
 
 ## For instance... (例如...)##
-- 📝 *For instance, many people find it difficult to balance work and personal life. (例如，許多人發現很難平衡工作和個人生活。)*
+- 📝 *For instance, many p eople find it difficult to balance work and personal life. (例如，許多人發現很難平衡工作和個人生活。)*
 
 ## In contrast to... (與...相比)##
 - 📝 *In contrast to traditional methods, modern technology offers more efficient solutions. (與傳統方法相比，現代科技提供了更高效的解決方案。)*

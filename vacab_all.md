@@ -264,7 +264,4 @@ typically /ˈtɪp.ɪ.kəl.i/ - 通常、一般來說 (adv.)
  - 📌typically used, typically found
  - 📝 *This type of software is typically used in large organizations. (這種軟體通常用於大型組織。)*
 
-# --------------------
-# PHRASES
-# --------------------
 

@@ -305,10 +305,39 @@ doable /ˈduːəbl/ - 可行的 (adj.)
  - 📌doable task, doable project
  - 📝 *The project seems challenging, but it's definitely doable with the right resources. (這個項目看起來很有挑戰性，但只要有合適的資源，絕對是可行的。)*
 
-doable /ˈduːəbl/ - 可行的 (adj.)
- - 📌doable task (可行的任務)
- - 📌doable project (可行的項目)
- - 📝 *The project seems challenging, but it's definitely doable with the right resources. (這個項目看起來很有挑戰性，但只要有合適的資源，絕對是可行的。)*
-
 people pleaser /ˈpiːpəl ˈpliːzər/ - 討好他人者 (n.)
+ - 📌people pleaser personality
  - 📝 *Being a people pleaser can lead to burnout if you don't set boundaries. (如果你不設立界線，討好他人會讓你精疲力竭。)*
+
+hmanoid /ˈhjuː.mə.nɔɪd/ - 類人 (adj.)
+ - 📌humanoid robot (類人機器人)
+ - 📝 *The humanoid robot can mimic human movements and expressions. (這個類人機器人可以模仿人類的動作和表情。)*
+
+early on /ˈɜːrli ɑːn/ - 在早期 (adv.)
+ - 📌early on in the project (在項目的早期)
+ - 📝 *We identified potential risks early on in the project. (我們在項目的早期就識別出了潛在的風險。)*
+
+handy /ˈhændi/ - 方便的 (adj.)
+ - 📌handy tool, 
+ - 📝 *This multi-tool is really handy for camping trips. (這個多功能工具對於露營旅行非常方便。)*
+
+for real /fɔːr riːl/ - 真的 (adv.)
+ - 📌for real this time (這次是真的)
+ - 📝 *Are you for real? I can't believe you did that! (你真的嗎？我不敢相信你做了那件事！)*
+ - 📌 *I thought you were joking, but you're for real! (我以為你在開玩笑，但你是真的！)*
+
+brand new /brænd nuː/ - 全新的 (adj.)
+ - 📌brand new car (全新汽車)
+ - 📝 *I just bought a brand new car, and I love it! (我剛買了一輛全新的汽車，我很喜歡！)*
+
+coordinate /kɔːrˈdɪneɪt/ - 協調 (v.)
+ - 📌coordinate efforts (協調努力)
+ - 📝 *We need to coordinate our efforts to achieve the best results. (我們需要協調我們的努力以達到最佳結果。)*
+
+put my effort into /pʊt maɪ ˈefərt ˈɪntuː/ - 付出努力 (phrase)
+ - 📌put my effort into the project (將我的努力投入到項目中)
+ - 📝 *I always put my effort into everything I do. (我總是全力以赴地投入到我所做的每件事中。)*
+
+in time /ɪn taɪm/ - 按時 (adv.)
+ - 📌finish the task in time (按時完成任務)
+ - 📝 *I managed to finish the report in time for the meeting. (我成功在會議前按時完成了報告。)*

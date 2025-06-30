@@ -41,5 +41,18 @@
 ## Please feel free to ask me any questions. (請隨時問我任何問題。)##
 - 📝 *Please feel free to ask me any questions about the topic. (請隨時問我任何關於這個主題的問題。)*
 
+## As matters stand... (就目前而言...)##
+- 📝 *As matters stand, we need to take immediate action to address climate change.
+- (就目前而言，我們需要立即採取行動來應對氣候變化。)*
 
+## In this manner... (以這種方式...)##
+- 📝 *In this manner, we can ensure that everyone has access to quality education.
+- (以這種方式，我們可以確保每個人都能接受優質教育。)*
 
+## As a result... (結果...)##
+- 📝 *As a result, more people are becoming aware of the importance of mental health
+- (結果，越來越多的人意識到心理健康的重要性。)*
+
+## I didn't mean to... (我不是故意的...)##
+- 📝 *I didn't mean to offend anyone with my comments.
+- (我不是故意冒犯任何人。)*

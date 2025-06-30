@@ -195,6 +195,11 @@ high-end /ˈhaɪ ˌend/ - 高端 (adj.)
  - 📌high-end technology (高端技術)
  - 📝 *The store specializes in high-end electronics and gadgets. (這家商店專門銷售高端電子產品和小工具。)*
 
+leading-edge /ˈliːdɪŋ edʒ/ - 領先的 (adj.)
+ - 📌leading-edge technology (領先技術)
+ - 📌leading-edge research (領先研究)
+ - 📝 *The company is known for its leading-edge innovations in renewable energy. (這家公司以其在可再生能源領域的領先創新而聞名。)*
+
 cutting-edge /ˈkʌtɪŋ edʒ/ - 前沿的 (adj.)
  - 📌cutting-edge technology (前沿技術)
  - 📌cutting-edge design (前沿設計)
@@ -264,4 +269,46 @@ typically /ˈtɪp.ɪ.kəl.i/ - 通常、一般來說 (adv.)
  - 📌typically used, typically found
  - 📝 *This type of software is typically used in large organizations. (這種軟體通常用於大型組織。)*
 
+constructive /kənˈstrʌk.tɪv/ - 建設性的 (adj.)
+ - 📌constructive criticism, constructive feedback
+ - 📝 *She provided constructive feedback on my presentation. (她對我的演講提供了建設性的反饋。)*
 
+neighborhood /ˈneɪbərhʊd/ - 鄰里、社區 (n.)
+ - 📌friendly neighborhood, local neighborhood
+ - 📝 *The neighborhood is known for its friendly atmosphere. (這個社區以其友好的氛圍而聞名。)*
+
+municipal bureaucracy /mjuːˈnɪsɪpl bjʊəˈrɒkrəsi/ - 市政官僚機構 (n.)
+ - 📌local municipal bureaucracy, municipal bureaucracy system
+ - 📝 *The municipal bureaucracy can sometimes be slow to respond to citizens' needs. (市政官僚機構有時對市民的需求反應較慢。)*
+
+critiqued /krɪˈtiːkt/ - 批評、評論 (v.)
+ - 📌critiqued the performance, critiqued the work
+ - 📝 *The professor critiqued the students' essays in detail. (教授詳細批評了學生的論文。)*
+
+retreat /rɪˈtriːt/ - 退隱、撤退 (n.)
+ - 📌spiritual retreat, military retreat
+ - 📝 *The company organized a retreat for its employees to relax and recharge. (公司為員工組織了一次退隱活動，以放鬆和充電。)*
+
+siblings /ˈsɪblɪŋz/ - 兄弟姐妹 (n.)
+ - 📌elder siblings, younger siblings
+ - 📝 *She has two siblings, an older brother and a younger sister. (她有兩個兄弟姐妹，一個哥哥和一個妹妹。)*
+
+appropriate /əˈproʊpriət/ - 適當的 (adj.)
+ - 📌appropriate behavior, appropriate attire
+ - 📝 *It's important to wear appropriate attire for the occasion. (在這個場合穿著適當的服裝很重要。)*
+
+alternative /ɔːlˈtɜːrnətɪv/ - 替代的 (adj.)
+ - 📌alternative solution, alternative energy
+ - 📝 *We need to find an alternative solution to this problem. (我們需要找到這個問題的替代解決方案。)*
+
+doable /ˈduːəbl/ - 可行的 (adj.)
+ - 📌doable task, doable project
+ - 📝 *The project seems challenging, but it's definitely doable with the right resources. (這個項目看起來很有挑戰性，但只要有合適的資源，絕對是可行的。)*
+
+doable /ˈduːəbl/ - 可行的 (adj.)
+ - 📌doable task (可行的任務)
+ - 📌doable project (可行的項目)
+ - 📝 *The project seems challenging, but it's definitely doable with the right resources. (這個項目看起來很有挑戰性，但只要有合適的資源，絕對是可行的。)*
+
+people pleaser /ˈpiːpəl ˈpliːzər/ - 討好他人者 (n.)
+ - 📝 *Being a people pleaser can lead to burnout if you don't set boundaries. (如果你不設立界線，討好他人會讓你精疲力竭。)*

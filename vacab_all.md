@@ -347,3 +347,26 @@ ritual /ˈrɪtʃuəl/ - 儀式 (n.)
  - 📝 *Meditation has become a daily ritual for many people. (冥想已成為許多人的日常儀式。)*
  - 📝 *Coffee and the newspaper are part of my morning ritual. (喝咖啡和讀報紙是我早晨必做的事情之一。)*
 
+authentic /ɔːˈθentɪk/ - 真正的 (adj.)
+ - 🎯 反義詞: inauthentic
+ - 📌authentic experience (真正體驗)
+ - 📝 *Traveling to local markets gives you an authentic experience of the culture. (去當地市場旅行可以讓你體驗到真實的文化。)*
+ - 📝 *The restaurant serves authentic Italian cuisine. (這家餐廳提供正宗的意大利菜。)*
+
+confession /kənˈfɛʃən/ - 告白 (n.)
+ - 📌confession of love (愛的告白)
+ - 📝 *He made a confession about his feelings for her. (他對她表達了他的感情。)*
+ - 📝 *The confession was a turning point in their relationship. (這次告白是他們關係的轉折點。)*
+
+consequence /ˈkɒnsɪkwəns/ - 後果 (n.)
+ - 🎯 反義詞: cause
+ - 📌face the consequences (面對後果)
+ - 📝 *Every action has its consequences, so think before you act. (每個行動都有其後果，所以在行動前要三思。)*
+ - 📝 *The consequence of his decision was a significant change in his life. (他決定的後果是他生活中的重大變化。)*
+
+commitment /kəˈmɪtmənt/ - 承諾 (n.)
+ - 🎯 反義詞: indifference
+ - 📌commitment to a cause (對某事的承諾)
+ - 📝 *Her commitment to the project was evident in her hard work. (她對這個項目的承諾在她的努力工作中顯而易見。)*
+ - 📝 *He made a commitment to improve his health by exercising regularly. (他承諾通過定期鍛煉來改善他的健康。)*
+

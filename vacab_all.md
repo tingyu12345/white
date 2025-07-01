@@ -370,3 +370,8 @@ commitment /kəˈmɪtmənt/ - 承諾 (n.)
  - 📝 *Her commitment to the project was evident in her hard work. (她對這個項目的承諾在她的努力工作中顯而易見。)*
  - 📝 *He made a commitment to improve his health by exercising regularly. (他承諾通過定期鍛煉來改善他的健康。)*
 
+rational /ˈræʃənl/ - 理性的 (adj.)
+ - 🎯 反義詞: irrational
+ - 📌rational decision (理性決策)
+ - 📝 *Making a rational decision requires careful consideration of all options. (做出理性決策需要仔細考慮所有選項。)*
+ - 📝 *She approached the problem with a rational mindset. (她以理性的心態處理這個問題。)*

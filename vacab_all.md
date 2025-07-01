@@ -341,3 +341,9 @@ put my effort into /pʊt maɪ ˈefərt ˈɪntuː/ - 付出努力 (phrase)
 in time /ɪn taɪm/ - 按時 (adv.)
  - 📌finish the task in time (按時完成任務)
  - 📝 *I managed to finish the report in time for the meeting. (我成功在會議前按時完成了報告。)*
+
+ritual /ˈrɪtʃuəl/ - 儀式 (n.)
+ - 📌daily ritual (日常儀式)
+ - 📝 *Meditation has become a daily ritual for many people. (冥想已成為許多人的日常儀式。)*
+ - 📝 *Coffee and the newspaper are part of my morning ritual. (喝咖啡和讀報紙是我早晨必做的事情之一。)*
+

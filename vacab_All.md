@@ -375,3 +375,20 @@ rational /ˈræʃənl/ - 理性的 (adj.)
  - 📌rational decision (理性決策)
  - 📝 *Making a rational decision requires careful consideration of all options. (做出理性決策需要仔細考慮所有選項。)*
  - 📝 *She approached the problem with a rational mindset. (她以理性的心態處理這個問題。)*
+
+eligible /ˈelɪdʒəbl/ - 有資格的 (adj.)
+ - 🎯 反義詞: ineligible
+ - 📌eligible for a scholarship (有資格獲得獎學金)
+ - 📝 *You must meet the requirements to be eligible for the scholarship. (你必須符合要求才能有資格獲得獎學金。)*
+ - 📝 *She is eligible to vote in the upcoming election. (她有資格在即將舉行的選舉中投票。)*
+
+meanwile /ˈmiːn.waɪl/ - 同時 (adv.)
+ - 📌meanwhile, in the meantime
+ - 📝 *I will start cooking dinner; meanwhile, you can set the table. (我會開始做晚餐；同時，你可以擺桌子。)*
+
+superficial /ˌsuːpərˈfɪʃl/ - 表面的 (adj.)
+ - 🎯 反義詞: deep
+ - 📌superficial wound (表面傷口)
+ - 📝 *The cut was superficial and didn't require stitches. (這個傷口是表面的，不需要縫合。)*
+ - 📝 *Their relationship was superficial, lacking depth and understanding. (他們的關係是表面的，缺乏深度和理解。)*
+

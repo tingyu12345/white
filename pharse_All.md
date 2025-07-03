@@ -268,3 +268,11 @@
 rub off on - 影響、感染 (phrasal verb)
  - 📌rub off on someone (對某人有影響)
  - 📝 *Her enthusiasm really rubs off on everyone around her. (她的熱情真的會感染到周圍的每個人。)*
+
+one thing led to another - 一件事引發另一件事 (phrase)
+ - 📌one thing led to another and we ended up at the party (一件事引發另一件事，我們最終來到了派對)
+ - 📝 *One thing led to another, and before we knew it, we were planning a trip together. (一件事引發另一件事，不知不覺中我們開始計劃一起旅行。)*
+
+so that - 以便、因此 (conjunction)
+ - 📌so that we can finish early (以便我們能早點完成)
+ - 📝 *I will work late so that I can finish the project on time. (我會加班，以便按時完成專案。)*

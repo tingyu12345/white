@@ -74,7 +74,7 @@ Technology has undeniably transformed communication with loved ones, offering bo
 科技確實改變了我們與親友溝通的方式，帶來了優點也帶來了缺點。雖然它讓即時連線和更便利的溝通成為可能，但必須注意它對我們關係深度和品質的潛在影響。在數位溝通和面对面互動之間找到平衡，是維持良好連結的關鍵。
 
 
-echnology has brought significant changes to communication, but not all are positive. One major negative impact is the decline of face-to-face interaction. Excessive reliance on digital communication can lead to misinterpretations, a decline in social skills, and increased social isolation. Furthermore, the impersonal nature of online communication can negatively affect emotional well-being and family relationships. 
+Technology has brought significant changes to communication, but not all are positive. One major negative impact is the decline of face-to-face interaction. Excessive reliance on digital communication can lead to misinterpretations, a decline in social skills, and increased social isolation. Furthermore, the impersonal nature of online communication can negatively affect emotional well-being and family relationships. 
 
 科技帶給溝通顯著的變化，但並非全都正面。其中一個主要的負面影響是面對面互動的衰退。過度依賴數位溝通可能導致誤解、社交技巧的衰退以及社交隔離的加劇。此外，線上溝通的 impersonal 本質可能對情緒健康和家庭關係產生負面影響。
 Here's a more detailed look:
@@ -116,3 +116,54 @@ Over-reliance on spell-checkers, autocorrect, and the use of abbreviations in di
 
 
 https://vocal.media/motivation/10-negative-effects-of-technology-in-communication
+
+
+# 📚 重點英文單字與片語
+
+well-being /ˈwelˌbiː.ɪŋ/ - 福祉 (n.)
+ - 📌well-being, welfare
+ - 📝 *Regular exercise is important for both physical and mental well-being. (定期運動對身心健康都很重要。)*
+
+isolate /ˈaɪ.sə.leɪt/ - 隔離 (v.)
+ - 📌isolate, segregate
+ - 📝 *During the pandemic, many people had to isolate themselves to prevent the spread of the virus. (在疫情期間，許多人不得不隔離自己以防止病毒傳播。)*
+
+various /ˈver.i.əs/ - 各種的 (adj.)
+ - 📌various, diverse
+ - 📝 *There are various ways to improve your English skills, such as reading, writing, and speaking practice. (有各種方法可以提高你的英語技能，例如閱讀、寫作和口語練習。)*
+
+potentially /pəˈten.ʃəl.i/ - 潛在地 (adv.)
+ - 📌potentially, possibly
+ - 📝 *The new technology could potentially revolutionize the way we communicate. (這項新技術可能會徹底改變我們的溝通方式。)*
+
+transform /trænsˈfɔːrm/ - 改變 (v.)
+ - 📌transform, change
+ - 📝 *The internet has transformed the way we access information and connect with others. (互聯網改變了我們獲取資訊和與他人聯繫的方式。)*
+
+strike a balance /straɪk ə ˈbæl.əns/ - 取得平衡 (phr.)
+ - 📌strike a balance, find equilibrium
+ - 📝 *It's important to strike a balance between work and leisure time. (在工作和休閒時間之間取得平衡很重要。)*
+
+excessive /ɪkˈses.ɪv/ - 過度的 (adj.)
+ - 📌excessive, too much
+ - 📝 *Excessive use of technology can lead to social isolation. (過度使用科技可能導致社交隔離。)*
+
+lead to /liːd tuː/ - 導致 (phr.)
+ - 📌lead to, result in
+ - 📝 *Poor communication can lead to misunderstandings and conflicts. (溝通不良可能導致誤解和衝突。)*
+
+result in /rɪˈzʌlt ɪn/ - 導致 (phr.)
+ - 📌result in, cause
+ - 📝 *The new policy will result in improved working conditions for employees. (新政策將導致員工工作條件的改善。)*
+
+
+
+可以要求AI給建議時的表達方式：
+be direct but friendly
+- 直接但友好地表達
+
+be professional but casual
+- 專業但隨意地表達
+
+be cautious but optimistic
+- 謹慎但樂觀地表達  

@@ -392,3 +392,8 @@ superficial /ˌsuːpərˈfɪʃl/ - 表面的 (adj.)
  - 📝 *The cut was superficial and didn't require stitches. (這個傷口是表面的，不需要縫合。)*
  - 📝 *Their relationship was superficial, lacking depth and understanding. (他們的關係是表面的，缺乏深度和理解。)*
 
+delusion /dɪˈluːʒn/ - 幻覺 (n.)
+ - 🎯 反義詞: reality
+ - 📌delusion of grandeur (自大妄想)
+ - 📝 *He was under the delusion that he could become a famous actor overnight. (他有一種幻覺，認為自己可以一夜之間成為著名演員。)*
+ - 📝 *The patient suffered from delusions and needed medical attention. (這位病人患有幻覺，需要醫療照顧。)*

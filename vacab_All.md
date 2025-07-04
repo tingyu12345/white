@@ -397,3 +397,9 @@ delusion /dɪˈluːʒn/ - 幻覺 (n.)
  - 📌delusion of grandeur (自大妄想)
  - 📝 *He was under the delusion that he could become a famous actor overnight. (他有一種幻覺，認為自己可以一夜之間成為著名演員。)*
  - 📝 *The patient suffered from delusions and needed medical attention. (這位病人患有幻覺，需要醫療照顧。)*
+
+impose /ɪmˈpoʊz/ - 強加 (v.)
+ - 🎯 反義詞: remove
+ - 📌impose restrictions (強加限制)
+ - 📝 *The government decided to impose new restrictions on travel. (政府決定對旅行強加新的限制。)*
+ - 📝 *Don't impose your beliefs on others; everyone has the right to their own opinions. (不要強加你的信仰給別人；每個人都有權利擁有自己的觀點。)*

@@ -156,7 +156,9 @@ result in /rɪˈzʌlt ɪn/ - 導致 (phr.)
  - 📌result in, cause
  - 📝 *The new policy will result in improved working conditions for employees. (新政策將導致員工工作條件的改善。)*
 
-
+snubbing /ˈsnʌb.ɪŋ/ - 冷落 (v.)
+ - 📌snubbing, ignoring
+ - 📝 *He felt snubbed when his friends ignored him at the party. (當他的朋友在派對上冷落他時，他感到被忽視。)*
 
 可以要求AI給建議時的表達方式：
 be direct but friendly

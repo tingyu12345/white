@@ -3,7 +3,7 @@
 ---
 
 ## 1️⃣ Have you ever used any AI for your work?
-**你曾經在工作中使用過AI嗎？你相信AI搜尋結果嗎？**
+你曾經在工作中使用過AI嗎？你相信AI搜尋結果嗎？
 
 ### 💡 Why?
 - Because AI can help me finish tasks faster and make my work easier.  

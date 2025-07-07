@@ -1,12 +1,9 @@
 
 
----
-
 ## 📖 最終版問題清單
 
 ### Topic: Are Old Social Expectations Still Suitable for Modern Life?
 
----
 
 #### 1️⃣ What are some common social expectations or beliefs you grew up hearing from your family or society?
 
@@ -69,14 +66,42 @@
    - I think encouraging financial independence is good, but not everyone has to buy a house to be considered “successful.”
 
 
+### club location:
+https://i17fun.tw/bamu-teahouse/
 
 - 讀書會主持稿
 - 簡報範本
 - 口說常用句型表
 
-- 相關影片：
+
+
+
+Please note the upcoming meeting will be held in a different location as below and time is from 2-5pm.
+
+Event: 高雄Happy English Club第686次例會 
+Date/Time: Jun. 21th 2025 14:00~17:00
+Location: 巴木茶坊 - 高雄市苓雅區青年一路6號
+https://g.co/kgs/Rrk2Q7R
+
+Host: Nick
+
+Agenda:
+14:00~14:30 Free Talk
+14:30~17:00 Discussion
+
+Topic: 
+Old Social Expectations Still Suitable for Modern Life
+
+Source:
 https://www.youtube.com/watch?v=KjiQJZYfvVI
-
 https://www.youtube.com/watch?v=OR6lW8Po834
-
 https://www.youtube.com/watch?v=6ZeVjO2z4X0&t=136s
+
+Questions:
+1️⃣ What are some common social expectations or beliefs you grew up hearing from your family or society?
+
+2️⃣ Which social expectations (like “marry by 30” or “study hard”) have made you feel stressed or conflicted? How did you deal with them?
+
+3️⃣ Which social expectations do you think should be kept, and which ones should be changed? Why?
+
+

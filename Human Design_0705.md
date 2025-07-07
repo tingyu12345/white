@@ -5,8 +5,7 @@
 **Human Design: Energetic Self-Understanding**
 
 這個檔名之所以合適，主要基於以下幾點：
-
-*   **Human Design（人類圖）**：來源中多次提及「human design system」，並將其描述為結合了四大古老系統（易經、卡巴拉、脈輪）和現代科學的能量系統。它被視為一種「GPS」，幫助人們理解自己的本質和生命路徑。
+**Human Design（人類圖）**：來源中多次提及「human design system」，並將其描述為結合了四大古老系統（易經、卡巴拉、脈輪）和現代科學的能量系統。它被視為一種「GPS」，幫助人們理解自己的本質和生命路徑。
 *   **Energetic（能量的）**：錄音強調一切皆是能量和頻率，包括我們的身體和周遭環境。了解自己的能量類型（如生產者、投射者等）是理解自身運作方式的關鍵。
 *   **Self-Understanding（自我理解/自我認知）**：整個對話的核心在於鼓勵聽眾去了解「你是誰」、「你為何在此」，並接受真實的自己，而非社會期望或制約。透過這個系統，人們可以更好地理解自己的身體訊號、情緒反應 以及如何與自身的能量流動保持一致。
 
@@ -68,3 +67,32 @@
 *   they don't really accept new things if your head have color means it's hard to accept new things yes they are they are very open minded they are like stubborn so break is good right yes That is the 50% we all open like this together only 2% because they are very unique. They have a purpose to to shoot. Only unique This is halfway. Sometimes support What's that? All right. Bye. with other people. So this is two sentence, right? So it's interesting result. I can see that just Oh yeah. The body So the GPS of greatness. The conditions Okay. Sorry. Inner child. Okay. Sounds like a voice. I don't know. Spectrum show. One more time. One hour. Okay. Mhm. Okay. How many Is this foreign speech. We are Okay. Find a big I saw you comfortable. Yeah, that's fine. Yeah, I think Anyone else? I'd like to know your opinion about two things I have ever heard so far. One is uh that people say everything happens for a reason
 *   and the second one is just like uh you said that life can be changed but you have to work really really hard to alter your destiny. What's your opinion about this? Yeah the first one I agree. Yeah because one of the fears is attractor. So before we come down we design okay purpose for this trip what do I want so that attraction will start to work so everybody you attract experience actually those people will come to your dream so everything happened for a reason we decided I want to be independent make my own money going outside right so you have this match then the second I told you life is not working hard on the wrong track just like on the wrong track
 *   if you don't The flow is to be right but we choose to someone say there is better we believe it but we have to prove it. So the first 40 years we always just follow that we want to work on our own until one say the other side they're
+*   
+
+
+### 單字解釋
+
+
+return to who you are - 回到你自己 (phrase)
+ - 📌return to who you are and be true to yourself (回到你自己，做真實的自己)
+ - 📝 It's important to return to who you are and not lose yourself in the process. (重要的是回到你自己，不要在過程中迷失自我。 )
+  
+Suppress - 壓抑 (verb)
+ - 📌Suppress your emotions (壓抑你的情緒)
+ - 📝 It's not healthy to suppress your feelings; you should express them. (壓抑你的感受是不健康的；你應該表達它們。
+
+Initiative - 主動 (noun)
+ - 📌Take the initiative to solve problems (主動解決問題)
+ - 📝 Taking the initiative can lead to new opportunities and growth. (主動出擊可以帶來新的機會和成長。)
+
+Ascension - 揚升 (noun)
+ - 📌The ascension of the soul (靈魂的升天)
+ - 📝 Many believe in the ascension of the soul to a higher plane of existence. (許多人相信靈魂會升天到更高的存在層面。)
+
+Conditioning - 制約 (noun)
+ - 📌The conditioning of the mind (心靈的制約)
+ - 📝 Conditioning can shape our thoughts and behaviors in profound ways. (制約可以深刻地塑造我們的思想和行為。)
+
+alter your destiny - 改變你的命運 (phrase)
+ - 📌You can alter your destiny with hard work and determination. (你可以通過努力和決心來改變你的命運。)
+ - 📝 Many believe that we have the power to alter our destiny through our choices. (許多人相信我們有能力通過選擇來改變自己的命運。)

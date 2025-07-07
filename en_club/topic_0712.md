@@ -160,6 +160,19 @@ snubbing /ˈsnʌb.ɪŋ/ - 冷落 (v.)
  - 📌snubbing, ignoring
  - 📝 *He felt snubbed when his friends ignored him at the party. (當他的朋友在派對上冷落他時，他感到被忽視。)*
 
+cliché /kliːˈʃeɪ/ - 陳詞濫調 (n.)
+ - 📌cliché, stereotype
+ - 📝 *Using clichés in writing can make it less engaging. (在寫作中使用陳詞濫調會使其不那麼吸引人。)
+
+novel /ˈnɒv.əl/ - 新穎的 (adj.)
+ - 📌novel, innovative
+ - 📝 *The novel approach to problem-solving impressed everyone in the meeting. (這種新穎的問題解決方法給會議上的每個人留下了深刻印象。)*
+
+
+discuss /dɪˈskʌs/ - 討論 (v.)
+ - 📌discuss, talk about
+ - 📝 *Let's discuss the pros and cons of the new policy. (讓我們討論一下新政策的利弊。)*
+ - 
 可以要求AI給建議時的表達方式：
 be direct but friendly
 - 直接但友好地表達

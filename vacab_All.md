@@ -337,3 +337,8 @@ coordinate /kɔːrˈdɪneɪt/ - 協調 (v.)
 put my effort into /pʊt maɪ ˈefərt ˈɪntuː/ - 付出努力 (phrase)
  - 📌put my effort into the project (將我的努力投入到項目中)
  - 📝 I always put my effort into everything I do. (我總是全力以赴地投入到我所做的每件事中。)
+
+sophisticated /səˈfɪstɪkeɪtɪd/ - 複雜的、精緻的 (adj.)
+ - 📌sophisticated technology (複雜的技術)
+ - 📌sophisticated design (精緻的設計)
+ - 📝 The new smartphone has a sophisticated camera system. (這款新智能手機擁有一個複雜的相機系統。)

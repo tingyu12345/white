@@ -342,3 +342,69 @@ sophisticated /səˈfɪstɪkeɪtɪd/ - 複雜的、精緻的 (adj.)
  - 📌sophisticated technology (複雜的技術)
  - 📌sophisticated design (精緻的設計)
  - 📝 The new smartphone has a sophisticated camera system. (這款新智能手機擁有一個複雜的相機系統。)
+
+initiative /ɪˈnɪʃətɪv/ - 主動的、創新的 (adj.)
+ - 📌initiative approach (創新的方法)
+ - 📝 The initiative taken by the team led to significant improvements in productivity. (團隊採取的主動措施導致了生產力的顯著提高。)
+
+tone up /toʊn ʌp/ - 練肌肉 (v.)
+ - 📌tone up muscles (練肌肉)
+ - 📝 She goes to the gym every day to tone up her muscles. (她每天都去健身房練肌肉。)
+
+subservience /səbˈsɜːrviəns/ - 服從 (n.)
+ - 📌subservience to authority (對權威的服從)
+ - 📝 His subservience to his boss was evident in every decision he made. (他對老闆的服從在他做的每個決定中都很明顯。)
+
+evident /ˈevɪdənt/ - 明顯的 (adj.)
+ - 📌evident truth (明顯的真理)
+ - 📝 The benefits of regular exercise are evident in improved health. (定期運動的好處在於健康改善是明顯的。)
+
+obey /əˈbeɪ/ - 服從 (v.)
+ - 📌obey the rules (服從規則)
+ - 📝 It's important to obey traffic laws for everyone's safety. (遵守交通法規對每個人的安全都很重要。)
+
+instruct /ɪnˈstrʌkt/ - 指示 (v.)
+ - 📌instruct someone to do something (指示某人做某事)
+ - 📝 The teacher instructed the students to complete their assignments by Friday. (老師指示學生在星期五之前完成作業。)
+
+unintentional /ˌʌnɪnˈtenʃənl/ - 無意的 (adj.)
+ - 📌unintentional mistake (無意的錯誤)
+ - 📝 The unintentional mistake led to a misunderstanding between the two parties. (無意的錯誤導致了雙方之間的誤解。)
+
+consume /kənˈsuːm/ - 消耗 (v.)
+ - 📌consume resources (消耗資源)
+ - 📌consume energy (消耗能源)
+ - 📝 People can choose how they want to consume content — on their TV, on their computer, on their phone.(人們可以選擇如何消化內容——在電視上、在電腦上、在手機上。)
+
+assume /əˈsuːm/ - 假設 (v.)
+ - 📌assume that (假設那)
+ - 📝 Don't assume that everyone knows the rules; explain them clearly. (不要假設每個人都知道規則；要清楚地解釋它們。)
+
+engage /ɪnˈɡeɪdʒ/ - 參與 (v.)
+ - 📌engage in conversation (參與對話)
+ - 📌engage with the community (與社區互動)
+ - 📝 It's important to engage with your audience during a presentation. (在演講中與觀眾互動是很重要的。)
+
+immerse /ɪˈmɜːrs/ - 沉浸 (v.)
+ - 📌immerse in a culture (沉浸在文化中)
+ - 📌immerse in a book (沉浸在書中)
+ - 📝 She likes to immerse herself in different cultures when she travels. (她喜歡在旅行時沉浸在不同的文化中。)
+
+well-qualified /ˌwel ˈkwɒlɪfaɪd/ - 合格的 (adj.)
+ - 📌well-qualified candidate (合格的候選人)
+ - 📌well-qualified teacher (合格的老師)
+ - 📝 The job requires a well-qualified individual with relevant experience. (這份工作需要一位具有相關經驗的合格個人。)
+
+open-minded /ˌoʊpən ˈmaɪndɪd/ - 開放的 (adj.)
+ - 📌open-minded approach (開放的態度)
+ - 📌open-minded discussion (開放的討論)
+ - 📝 Being open-minded allows you to consider different perspectives. (保持開放的態度可以讓你考慮不同的觀點。)
+
+back in the day /bæk ɪn ðə deɪ/ - 過去那個時候 (phrase)
+ - 📌back in the day, we used to play outside all the time (過去那個時候，我們總是喜歡在外面玩)
+ - 📝 Back in the day, people communicated through letters and landlines. (過去那個時候，人們通過信件和固定電話進行交流。)
+
+scold /skoʊld/ - 責罵 (v.)
+ - 📌scold a child (責罵孩子)
+ - 📌scold someone for doing something (因為做某事而責罵某人)
+ - 📝 The teacher scolded the student for not completing his homework. (老師因為學生沒有完成作業而責罵了他。)

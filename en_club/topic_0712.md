@@ -160,7 +160,7 @@ snubbing /ˈsnʌb.ɪŋ/ - 冷落 (v.)
  - 📌snubbing, ignoring
  - 📝 *He felt snubbed when his friends ignored him at the party. (當他的朋友在派對上冷落他時，他感到被忽視。)*
 
-cliché /kliːˈʃeɪ/ - 陳詞濫調 (n.)
+cliche /kliːˈʃeɪ/ - 陳詞濫調 (n.)
  - 📌cliché, stereotype
  - 📝 *Using clichés in writing can make it less engaging. (在寫作中使用陳詞濫調會使其不那麼吸引人。)
 

@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=NrcZbllBWbg&t=389s
 
 
-Hi everyone, welcome to a new episode of Bo's Slow English. In today's episode, I am going to introduce a different type or style of vlogging which doesn't require a lot of editing. I actually did some research, it's more of an old-school style of vlogging where there aren't too many edits and it's more raw content. I'm trying this method because, number one, I work a full-time job, so it's hard for me to film content and then have to edit it for you, and it takes me too long to get the video out for my viewers. Also, I feel like this way of vlogging will be more authentic anyway.
+Hi everyone, welcome to a new episode of Bo's Slow English. In today's episode, I am going to introduce a different type or style of vlogging which doesn't require a lot of editing. I actually did some research, it's more of an old-school style of vlogging where there aren't too many edits and it's more raw content. I'm trying this method because, number one, I work a full-time job, so it's hard for me to film content and then have to edit it for you, and it takes me too long to get the video out for my viewers. Also, I feel like this way of vlogging will be more **authentic** anyway.
 
 Today I want to talk about mental health and anxiety. It used to be a very **taboo topic**, which means **that it's not widely spoken about and if you do talk about it, it's a little bit embarrassing**. But nowadays, it is more **mainstream** to talk about mental health and anxiety. For those of you who don't know what anxiety is, and I'm not a doctor, my definition is **when you don't have control over your body and mind because there's so much stress and nervousness, and it really affects your everyday life**. Sometimes it's situational, meaning something might happen and you get anxiety from that, or physiologically, meaning in your body, your body is just used to being in an anxious mode. And I was like that up until recently, actually, for a very, very long time.
 
@@ -39,5 +39,11 @@ debilitating /dɪˈbɪlɪteɪtɪŋ/ - 使人虛弱的、削弱的 (adj.)
 start off - 開始、起步 (phrase)
 - 📝 *Let's start off the meeting with a quick introduction.(讓我們以快速介紹開始會議。)*
 
+therapist /ˈθerəpɪst/ - 治療師、心理治療師 (noun)
+- 📝 *She sees a therapist every week to help manage her anxiety.(她每週看一次治療師來幫助管理她的焦慮。)*
+
 keeps me in check - 讓我保持警覺謹慎 (phrase)
 - 📝 *My mentor keeps me in check by reminding me of my goals and holding me accountable.(我的導師通過提醒我目標並讓我負責任來讓我保持警覺謹慎。)*
+
+authentic /ɔːˈθentɪk/ - 真實的、可信的 (adj.)
+- 📝 *She always speaks in an authentic way, sharing her true feelings and experiences.(她總是以真實的方式說話，分享她的真實感受和經歷。)*

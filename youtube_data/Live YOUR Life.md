@@ -49,7 +49,7 @@ And vice versa, I'm also... men can support the family if women can make more mo
 To, you know, life choices and the baby topic again, we have made it very clear in a few of our videos that we don't want children. It's just personally not for us. And we still get a lot of questions and that social pressure that, you know, what do you mean like you have to, and you're getting older, and it's a must.
 
 
-Yeah, it's mandatory, you can't not. As a woman, if someone asks you when you're gonna have a baby, not if you want one, when... because it's always when. They just assume, and you say, "Oh, like, actually, I know we don't, we don't want children." And they'll say, "Oh, you're still young, you can change your mind." 
+Yeah, it's **mandatory**, you can't not. As a woman, if someone asks you when you're gonna have a baby, not if you want one, when... because it's always when. They just assume, and you say, "Oh, like, actually, I know we don't, we don't want children." And they'll say, "Oh, you're still young, you can change your mind." 
 
 So I'm old enough to say I want a baby, but I'm not old enough to say I don't want a baby?
 
@@ -93,6 +93,9 @@ Yes, so don't limit yourself. No expiry date, there's no expiry date.
 All right guys, next video is gonna be about Busan, we have, you know, on Sunday. Bye bye you!
 
 
+
+mandatory /ˈmændətɔri/ - 強制的、必須的 (adj.)
+- 📝 *In many countries, it is mandatory to wear a seatbelt while driving.(在許多國家，開車時必須繫安全帶。)*
 
 ridiculous /rɪˈdɪkjələs/ - 荒謬的、可笑的 (adj.)
 - 📝 *The idea was so ridiculous that everyone burst into laughter.(這個主意太荒謬了，大家都笑了。)*

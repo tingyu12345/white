@@ -9,7 +9,7 @@ If you have been watching our channel for a while, you'll know that Q1, I have m
 
 So if you're interested, you can click on that up in the corner where we put it. Anyway, we were actually contacted by SK-II. I love the campaigns that they brought out with. They contacted us about this kind of new campaign that they have out about expiry dates. So basically the whole idea is, you know, "I don't expire, my age is not an expiry date." 
 
-If you haven't seen the video yet, we'll leave the link in the description box. But basically it shows how women are really pressured to get married at an early age, and the campaign basically encourages not only women but, you know, men as well to kind of look past all this social pressure and just kind of choose what's right for you in your life. 
+If you haven't seen the video yet, we'll leave the link in the description box. But basically it shows how women are really pressured to get married **at an early age**, and the campaign basically encourages not only women but, you know, men as well to kind of look past all this social pressure and just kind of choose what's right for you in your life. 
 
 Sorry for... don't mind our cat. Keep it a little bit loud, but... So anyway, yes, we decided to do this campaign together, yes, about "no one ever expires." So age is not a limit. What I want to say to young people - not even just for you, even for old people - yeah, just don't limit yourself.
 
@@ -134,3 +134,6 @@ fulfilled /fʊlˈfɪld/ - 滿足的、實現的 (adj.)
 
 leap of faith - 冒險一試 (phrase)
 - 📝 *Taking a leap of faith, she decided to start her own business and follow her passion.(冒險一試，她決定創業並追隨自己的熱情。)*
+
+at the early age - 在年輕時 (phrase)
+- 📝 *She got married at an early age, but she still pursued her career dreams despite the societal expectations.(她在年輕時結婚，但仍然追求自己的職業夢想，儘管有社會期望。)*

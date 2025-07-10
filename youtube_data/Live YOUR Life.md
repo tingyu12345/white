@@ -25,9 +25,9 @@ And if you don't know what a "leftover woman" is, it's basically a kind of unkin
 
 Even in Korea, I've heard about this term "chasse," saying that women are like Christmas cake. Right? So on 24th, 25th are the peak, yeah, after 25 they're basically just expired, no longer valuable.
 
-But to be fair, I think that Korea is definitely changing quickly. All right? Yeah, because the average marriage age of Korean women is actually like 30. Mm-hmm, closer to 30, early 30s. So even though there is a lot of pressure there from the older generations, I think that the younger generations are just kind of taking their lives into their own hands more and not really crumbling under that pressure.
+But to be fair, I think that Korea is definitely changing quickly. All right? Yeah, because the average marriage age of Korean women is actually like 30. Mm-hmm, closer to 30, early 30s. So even though there is a lot of pressure there from the older generations, I think that the younger generations are just kind of taking their lives into their own hands more and not really **crumbling** under that pressure.
 
-So starting out, we use examples of, you know, just in general what this campaign is about and about Kyuho's mom. She's like defying the stereotype there. But in our case, we really took our time to get to know each other before getting married. Like we've been together since 2011, we lived together for a while, we really got to know each other before we made that decision, right?
+So starting out, we use examples of, you know, just in general what this **campaign** is about and about Kyuho's mom. She's like defying the stereotype there. But in our case, we really took our time to get to know each other before getting married. Like we've been together since 2011, we lived together for a while, we really got to know each other before we made that decision, right?
 
 Actually, whenever I go meet my relatives on big holidays in Korea, sometimes they'll ask how old is Sara, right? Yeah, and when I say she's two years older than me, then all of them are like, "She's pushing 30! Like you have to get married! Oh, you have to get ready for the baby too!" Right? They will always tell me that there are things that I have to do before we hit 30. 
 
@@ -55,9 +55,9 @@ So I'm old enough to say I want a baby, but I'm not old enough to say I don't wa
 
 Oh yeah, I've never thought about that.
 
-I know, it's just ridiculous, and I've gotten it so many times. It's so disrespectful to completely invalidate someone's decision, right?
+I know, it's just **ridiculous**, and I've gotten it so many times. It's so **disrespectful** to completely invalidate someone's decision, right?
 
-And also, when it comes to social pressure, I know a lot of, especially probably most of Asian countries feel the same, that men should always have stable jobs. And I'm sure many of young people who are watching this video probably feel the same, that they get the pressure from their parents, right?
+And also, **when it comes to** social pressure, I know a lot of, especially probably most of Asian countries feel the same, that men should always have stable jobs. And I'm sure many of young people who are watching this video probably feel the same, that they get the pressure from their parents, right?
 
 And I had to go through it too. When I was graduating from my university, my parents would tell me that you should have a job, stable job, that you're working office, 9:00 to 5:00, especially big companies. They prefer big companies.
 
@@ -78,16 +78,56 @@ Just for example, my friends make music, other friend, he builds, actually does 
 
 Yeah, it's not a fashion.
 
-Yeah, they actually make money out of it. It's something different from office work, but they still do have their own passion and they learn skills. So I think it is important to support the children, and also it is important to see what your children really like and what he or she can really do.
+Yeah, they actually **make money out of it**. It's something different from office work, but they still do have their own passion and they learn skills. So I think it is important to support the children, and also it is important to see what your children really like and what he or she can really do.
 
 Yeah, I mean for us personally, you know, you guys have seen our videos, we live rather modestly but we're okay with that because we both worked in companies full time. We both didn't like it. It didn't suit us. We had to try. We didn't like it.
 
-So we thought, you know, why don't we kind of take this leap of faith and see if we can, you know, freelance, do freelance jobs half of the time, and the other kind of half the time we can, you know, do YouTube? Hopefully, I mean, this is what we'd love to do. We would rather make, you know, a little less money and love what we do every day than to go to our companies every day and come home like exhausted and just collapse.
+So we thought, you know, why don't we kind of take **this leap of faith** and see if we can, you know, freelance, do freelance jobs half of the time, and the other kind of half the time we can, you know, do YouTube? Hopefully, I mean, this is what we'd love to do. We would rather make, you know, a little less money and love what we do every day than to go to our companies every day and come home like exhausted and just **collapse.**
 
 If it weren't for you guys and everyone who's been watching over the past like, you know, two-plus years, we wouldn't have been able to follow our dream. So yeah, I don't know. I guess that's just what we're really passionate about, this kind of topic.
 
-Just kind of, if you think that something could make you really happy if you just took the chance and tried it, do it. Because I think, I know it sounds like really corny and cliché, though I think you would regret it more if you didn't do it.
+Just kind of, if you think that something could make you really happy if you just took the chance and tried it, do it. Because I think, I know it sounds like really **corny and cliché,** though I think you would regret it more if you didn't do it.
 
 Yes, so don't limit yourself. No expiry date, there's no expiry date.
 
 All right guys, next video is gonna be about Busan, we have, you know, on Sunday. Bye bye you!
+
+
+
+ridiculous /rɪˈdɪkjələs/ - 荒謬的、可笑的 (adj.)
+- 📝 *The idea was so ridiculous that everyone burst into laughter.(這個主意太荒謬了，大家都笑了。)*
+
+disrespectful /ˌdɪsrɪˈspɛktfəl/ - 不尊重的、無禮的 (adj.)
+- 📝 *It was disrespectful of him to interrupt her while she was speaking.(在她講話時打斷她是對她的不尊重。)*
+
+when it comes to - 當談到、涉及 (phrase)
+
+desires /dɪˈzaɪərz/ - 渴望、欲望 (noun)
+- 📝 *Her desires to travel the world were finally fulfilled when she got a job that allowed her to work remotely.(她渴望環遊世界的願望在她找到一份可以遠程工作的工作後終於實現了。)*
+
+campaign /kæmˈpeɪn/ - 活動、運動 (noun)
+- 📝 *The company launched a new advertising campaign to promote their product.(這家公司推出了一個新的廣告活動來推廣他們的產品。)*
+
+stimulated /ˈstɪmjuleɪtɪd/ - 受到刺激的、興奮的 (adj.)
+- 📝 *The lecture was so engaging that the students felt stimulated throughout the entire class.(這堂課的講座非常吸引人，學生們在整堂課中都感到興奮。)*
+
+crumbling /ˈkrʌmblɪŋ/ - 崩潰、瓦解 (verb)
+- 📝 *The old building was crumbling after years of neglect.(這座老建築因多年被忽視而崩潰。)*
+
+make money out of it - 從中賺錢 (phrase)
+
+
+corny and cliché - 老套和陳詞濫調 (phrase)
+- 📝 *The movie was filled with corny and cliché lines that made it hard to take seriously.(這部電影充滿了老套和陳詞濫調的台詞，讓人很難認真看待。)*
+
+expiry date - 到期日 (noun)
+- 📝 *The milk has an expiry date of next week, so we should drink it before then.(這瓶牛奶的到期日是下週，所以我們應該在那之前喝掉它。)*
+
+collapse /kəˈlæps/ - 崩潰、倒塌 (verb)
+- 📝 *The old building collapsed after the earthquake.(這座老建築在地震後倒塌了。)*
+
+fulfilled /fʊlˈfɪld/ - 滿足的、實現的 (adj.)
+- 📝 *She felt fulfilled after completing her degree and starting her dream job.(她在完成學位並開始她的夢想工作後感到滿足。)*
+
+leap of faith - 冒險一試 (phrase)
+- 📝 *Taking a leap of faith, she decided to start her own business and follow her passion.(冒險一試，她決定創業並追隨自己的熱情。)*

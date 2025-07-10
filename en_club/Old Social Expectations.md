@@ -3,7 +3,11 @@
 ### Topic: Old Social Expectations Still Suitable for Modern Life
 
 
-#### 1️⃣ What are some common social expectations or beliefs you grew up hearing from your family or society?
+#### 1️⃣ What are some common social expectations or beliefs you grew up hearing from your family or society? (你成長過程中聽到的常見社會期望或信念有哪些？)
+
+When I was young at school, teachers always told us to study hard and pass exams to get into a good university and secure a good job in the future. Back then, I always tried to be a good student. But honestly, I wasn’t the best in my class — I just tried not to be the worst, so I could feel safe in some way.
+
+
 
   - People often said that a man should have a stable job and buy a house before getting married.(人們常說男生結婚前要有穩定工作、買房才行。)
 

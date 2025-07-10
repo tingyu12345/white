@@ -2,11 +2,11 @@
 https://www.youtube.com/watch?v=cePqpufRg4Q&t=14s
 
 
-Thank you so much for your time, and the first question is where are you from and how long have you been here? I'm from Austria, I was born and raised in Vienna, and I've been living in Asia for three years now.
+Thank you so much for your time, and the first question is where are you from and how long have you been here? I'm from Austria, **I was born and raised in Vienna**, and I've been living in Asia for three years now.
 
 Three years ago, how's your life so far? My life is pretty good, I feel very safe and yeah, it's a nice environment to be living and I'm very grateful.
 
-Okay, what brought you to Taiwan in the first place? Work. I was working in Hong Kong before and I would fly around between Taiwan and Hong Kong, and then I decided to come here and just in time because right after I came to Taiwan, the pandemic started, so I was stuck here basically.
+Okay, what brought you to Taiwan in the first place? Work. I was working in Hong Kong before and I would fly around between Taiwan and Hong Kong, and then I decided to come here and just in time because right after I came to Taiwan, the **pandemic** started, so I was stuck here basically.
 
 But I also feel like it was a good place to be stuck in and I felt very, you know, taken care of and safe.
 
@@ -113,6 +113,8 @@ And they have great, if you have children, they have great summer school program
 Yeah, that's it, thank you so much, thank you, thank you so much sir, thank you.
 
 
+pandemic /pænˈdɛmɪk/ - 大流行 (noun)
+- 📝 *The pandemic has changed the way we live and work. (大流行改變了我們的生活和工作方式。)*
 
 considerate /kənˈsɪdərət/ - 體貼的 (adj.)
 - 📝 *He is always considerate of others' feelings.(他總是體貼別人的感受。)*

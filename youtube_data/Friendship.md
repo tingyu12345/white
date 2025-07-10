@@ -68,3 +68,9 @@ quality over quantity - 重質不重量 (phrase)
 
 common denominator - 共同特徵、共同點 (phrase)
 - 📝 *The common denominator in all successful teams is effective communication.(所有成功團隊的共同特徵是有效的溝通。)*
+ 
+ vastly different - 差異很大 (phrase)
+- 📝 *The two cultures are vastly different in their traditions and values.(這兩種文化在傳統和價值觀上差異很大。)*
+
+gut - 直覺、本能 (noun)
+- 📝 *Trust your gut when making important decisions.(在做重要決策時，相信你的直覺。)*

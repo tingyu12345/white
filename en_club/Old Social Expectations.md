@@ -33,13 +33,10 @@ But luckily, I didn’t get much pressure from my parents. Instead, they were ve
 
 I just popped up a question in my mind: For men, what if your wife's salary is higher than yours? How would you feel? Likewise, for women, what if your husband's salary is lower than yours? How would you feel?
 
-answer: I think it’s okay. I believe that in a marriage, both partners should support each other, regardless of who earns more. It’s about teamwork and sharing responsibilities, not just about money.
-
-In my family, my dad earns for a living, and my mon takes care of the household. I think this is a good arrangement. 
-
-but I also believe that both partners should be able to contribute financially if they want to. It’s not just about traditional roles; it’s about what works best for each couple.
+In my family, my dad earns for a living, and my mon takes care of the household. it works okay for my family.
 
 
+answer: For me, I believe that in a marriage, both partners should support each other, regardless of who earns more. It’s more about teamwork and sharing responsibilities, not just about money.
 
 
 
@@ -59,6 +56,7 @@ but I also believe that both partners should be able to contribute financially i
 
 #### 🌸my answer:
 
+I think that during childhood, studying hard is not a bad thing, but it should not be the only focus. We should also explore our interests and passions. If you are truly passionate about something, you will naturally want to learn more about it.
 
 
 

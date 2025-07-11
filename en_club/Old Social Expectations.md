@@ -31,6 +31,19 @@ Yes. When I graduated from university, I joined the army for one year and eight 
 But luckily, I didn’t get much pressure from my parents. Instead, they were very supportive and encouraged me to look for a job patiently.but you know, somehow I just want to find a job quickly and to meet the socail expectation.
 
 
+I just popped up a question in my mind: For men, what if your wife's salary is higher than yours? How would you feel? Likewise, for women, what if your husband's salary is lower than yours? How would you feel?
+
+answer: I think it’s okay. I believe that in a marriage, both partners should support each other, regardless of who earns more. It’s about teamwork and sharing responsibilities, not just about money.
+
+In my family, my dad earns for a living, and my mon takes care of the household. I think this is a good arrangement. 
+
+but I also believe that both partners should be able to contribute financially if they want to. It’s not just about traditional roles; it’s about what works best for each couple.
+
+
+
+
+
+
 #### 🌸other persepctives:
    - start my own business(創業) 
 

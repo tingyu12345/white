@@ -5,16 +5,18 @@
 
 #### 1️⃣ What are some common social expectations or beliefs you grew up hearing from your family or society? (你成長過程中聽到的常見社會期望或信念有哪些？)
 
-When I was young at school, teachers always told us to study hard and pass exams to get into a good university and secure a good job in the future. Back then, I always tried to be a good student. But honestly, I wasn’t the best in my class — I just tried not to be the worst, so I could feel safe in some way.
+#### 🌸my answer:
+When I was in high school, teachers always told us to study hard, get into a good university, and find a good job in the future. Back then, I always tried to be a good student. But honestly, I wasn’t the best in my class — I just tried not to be the worst, so I could feel safe in some way.
+
+Besides, when it comes to English in Taiwan,people believe that being able to speak English is very important. If you can speak English well, you can gain more opportunities in your career.
 
 
 
+
+#### 🌸other persepctives:
   - People often said that a man should have a stable job and buy a house before getting married.(人們常說男生結婚前要有穩定工作、買房才行。)
 
-  - In my family, getting married before thirty was seen as a must for women, or people would gossip about you.(在我家，女生30歲前結婚是必須的，不然就會被人八卦。)
-
-  - Society told us that having a high salary and good title means you’re successful.
-      (社會告訴我們高薪和好職位就是成功。)
+  - In my parents’ generation, it was common to get married by 30 and have kids soon after.(在我父母那一代，30歲結婚、生小孩是很常見的事。)
 
   - Many people believe you should live a “normal life”: study, work, get married, have kids — in that order.(很多人認為人生就該按照「讀書、工作、結婚、生小孩」這個順序走。)
 
@@ -23,22 +25,31 @@ When I was young at school, teachers always told us to study hard and pass exams
 #### 2️⃣ Which social expectations (like “marry by 30” or “study hard”) have made you feel stressed or conflicted? How did you deal with them?
 
 
-   - Yes. When I turned 30 and was still single, I started getting a lot of questions from relatives at family gatherings. It made me very uncomfortable.(有，當我30歲還沒結婚，家族聚會就一直被問，超不舒服。)
+#### 🌸my answer:
+Yes. When I graduated from university, I joined the army for one year and eight months. After that, I started looking for a job. It was really hard to find a job at that time due to the economic situation.
 
-   - I felt pressured when people expected me to follow a stable career path, but I actually wanted to start my own business.(人們期望我走穩定的職業路線，但我其實想創業，壓力很大。)
+But luckily, I didn’t get much pressure from my parents. Instead, they were very supportive and encouraged me to look for a job patiently.but you know, somehow I just want to find a job quickly and to meet the socail expectation.
 
-   - I felt stressed because society makes you feel like a failure if you don’t own a house by a certain age.(社會讓你覺得如果某年齡前沒買房就很失敗，壓力很大。)
+
+#### 🌸other persepctives:
+   - start my own business(創業) 
+
+   - need to have a stable job(需要有穩定的工作) before marriage(結婚前)
 
    - People told me I should have kids after marriage, but I don’t really want children.(人們說結婚後就該生小孩，但我其實不想要小孩。)
 
-👉 當你面對這些「社會價值觀」帶來的壓力時，你怎麼面對、處理？
 
-   - I learned to ignore those opinions and focus on what makes me happy.(我學會忽略那些意見，專注於讓自己快樂的事。)
-
-   - I talked to my family and friends about my feelings, and they were supportive.(我跟家人朋友談了我的感受，他們很支持我。)
+ 
 
 #### 3️⃣ Which social expectations do you think should be kept, and which ones should be changed? Why?
 
+
+#### 🌸my answer:
+
+
+
+
+#### 🌸other persepctives:
    - I think respecting others’ opinions is important, but people should also respect different life choices.(我覺得尊重別人的意見很重要，但人們也應該尊重不同的生活選擇。)
 
    - The idea of working hard is valuable, but success shouldn’t only be measured by salary or material things.(努力工作是有價值的，但成功不應該只用薪水或物質來衡量。) 
@@ -50,7 +61,7 @@ When I was young at school, teachers always told us to study hard and pass exams
 -------------------------------------------------------------------------------------------
 
 #### 開場英文開場白：
-Hi everyone! Thanks for joining today’s book club discussion.
+Hi everyone! Thanks for joining today’s discussion.
 Our topic today is “Are Old Social Expectations Still Suitable for Modern Life?”
 We’ll talk about some social expectations we grew up with, how they’ve affected us, and whether they still make sense today.
 Feel free to share your personal stories — there’s no right or wrong here. Let’s just chat and exchange ideas!
@@ -89,6 +100,7 @@ Questions:
 👉 可以拋問題：
 - “Do you think it’s good to respect elders no matter what?”
 - “Is it still necessary to buy a house before marriage in modern society?”
+
 
 Source:
 https://www.youtube.com/watch?v=OR6lW8Po834

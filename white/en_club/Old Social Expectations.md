@@ -129,10 +129,11 @@ https://www.youtube.com/watch?v=OR6lW8Po834
 https://www.youtube.com/watch?v=6ZeVjO2z4X0&t=136s
 
 
-
 bouns:(for fun)
 https://www.youtube.com/shorts/UgzH5x0QCt0
 
+
+^____________________^
 
 
 

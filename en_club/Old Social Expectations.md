@@ -39,6 +39,7 @@ In my family, my dad earns for a living, and my mon takes care of the household.
 answer: For me, I believe that in a marriage, both partners should support each other, regardless of who earns more. It’s more about teamwork and sharing responsibilities, not just about money.
 
 
+in many western countries, some young people will take a gap year after high school to travel or work before going to university. I think this is a good idea because it allows them to explore the world and discover their interests before committing to a specific career path.
 
 
 #### 🌸other persepctives:

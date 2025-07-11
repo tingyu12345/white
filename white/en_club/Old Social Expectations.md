@@ -72,7 +72,7 @@ I think that during childhood, studying hard is not a bad thing, but it should n
 
    - I think encouraging financial independence is good, but not everyone has to buy a house to be considered “successful.”
 
--------------------------------------------------------------------------------------------
+--------------------------------------------------
 
 #### 開場英文開場白：
 Hi everyone! Thank you for joining today’s discussion.  

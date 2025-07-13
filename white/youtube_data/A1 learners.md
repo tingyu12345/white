@@ -182,3 +182,11 @@ Your progress doesn't end here—click on the next video or explore the addition
   📝 Doubts can creep in when you least expect it.
 - *shrink* ：縮小、減少  
   📝 Don't shrink your dreams, make them bigger.
+- *chaotic*：混亂的  
+  📝 The city can be chaotic, but I love it.
+- *ever since then*：從那時起  
+  📝 Ever since then, I've been more careful with my words. 
+- *snap back*：迅速回應  
+  📝 I used to snap back without thinking, but now I pause.
+- *boom*：突然發生  
+  📝 When I heard the news, it felt like a boom in my heart.

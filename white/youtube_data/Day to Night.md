@@ -65,3 +65,13 @@ Oh my god, oh my eyes, I can't believe how clear it is—finally sunny! I like t
 Good morning guys, good morning! We had our breakfast, checked out, and then enjoyed the beach for a little before heading back to Seoul.
 
 BMO, look at my sea glass—this is gonna be my souvenir. It's so pretty, I love the colors of it. Filling up before we head back—wow, did you see that? Wow, who's that? Oh, he's smelling your face, like are you sure it's you
+
+
+sarcastic /sɑːrˈkæs.tɪk/ - 諷刺的 (adj.)
+- 📝 His sarcastic comments often make people laugh. (他諷刺的評論常常讓人發笑。)
+
+popped out /pɒpt aʊt/ - 突然出現 (phr.)
+- 📝 The sun popped out after the rain, making the day feel brighter. (雨後太陽突然出現，讓這一天感覺更明亮。)
+
+thick /θɪk/ - 濃稠的 (adj.)
+- 📝 The soup was thick and hearty, perfect for a cold day. (湯是濃稠而豐富的，非常適合寒冷的日子。)

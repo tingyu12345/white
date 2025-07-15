@@ -1,19 +1,8 @@
 
 # 25 個動詞片語實際應用 - YouTube 影片轉錄
+https://www.youtube.com/watch?v=rQ7euQSWKGM&t=572s
 
-### 影片資訊
-- **頻道**: Volka English
-- **標題**: "Speak Like a Native NOW | 25 Phrasal Verbs in Action"
-- **連結**: https://www.youtube.com/watch?v=rQ7euQSWKGM&t=572s
 
----
-
-## 前言
-這些 3,000 個字彙占了口語英文的 95%。我將教你今天的單字，你會在我和我兄弟的真實對話中聽到它們。堅持到最後，因為沒有可理解的輸入，你會忘記 90% 學到的東西。不要浪費五年多的時間還不能流利。讓我們一起學習 25 個最常見的動詞片語。
-
----
-
-## 動詞片語詳解
 
 ### 1. Ask for (請求/要求)
 **意思**: 請求或要求某物

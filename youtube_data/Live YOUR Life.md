@@ -9,7 +9,7 @@ If you have been watching our channel for a while, you'll know that Q1, I have m
 
 So if you're interested, you can click on that up in the corner where we put it. Anyway, we were actually contacted by SK-II. I love the campaigns that they brought out with. They contacted us about this kind of new campaign that they have out about expiry dates. So basically the whole idea is, you know, "I don't expire, my age is not an expiry date." 
 
-If you haven't seen the video yet, we'll leave the link in the description box. But basically it shows how women are really pressured to get married **at an early age**, and the campaign basically encourages not only women but, you know, men as well to kind of look past all this social pressure and just kind of choose what's right for you in your life. 
+If you haven't seen the video yet, we'll leave the link in the description box. But basically it shows how women are really pressured to get married *at an early age*, and the campaign basically encourages not only women but, you know, men as well to kind of look past all this social pressure and just kind of choose what's right for you in your life. 
 
 Sorry for... don't mind our cat. Keep it a little bit loud, but... So anyway, yes, we decided to do this campaign together, yes, about "no one ever expires." So age is not a limit. What I want to say to young people - not even just for you, even for old people - yeah, just don't limit yourself.
 
@@ -25,9 +25,9 @@ And if you don't know what a "leftover woman" is, it's basically a kind of unkin
 
 Even in Korea, I've heard about this term "chasse," saying that women are like Christmas cake. Right? So on 24th, 25th are the peak, yeah, after 25 they're basically just expired, no longer valuable.
 
-But to be fair, I think that Korea is definitely changing quickly. All right? Yeah, because the average marriage age of Korean women is actually like 30. Mm-hmm, closer to 30, early 30s. So even though there is a lot of pressure there from the older generations, I think that the younger generations are just kind of taking their lives into their own hands more and not really **crumbling** under that pressure.
+But to be fair, I think that Korea is definitely changing quickly. All right? Yeah, because the average marriage age of Korean women is actually like 30. Mm-hmm, closer to 30, early 30s. So even though there is a lot of pressure there from the older generations, I think that the younger generations are just kind of taking their lives into their own hands more and not really *crumbling* under that pressure.
 
-So starting out, we use examples of, you know, just in general what this **campaign** is about and about Kyuho's mom. She's like defying the stereotype there. But in our case, we really took our time to get to know each other before getting married. Like we've been together since 2011, we lived together for a while, we really got to know each other before we made that decision, right?
+So starting out, we use examples of, you know, just in general what this *campaign* is about and about Kyuho's mom. She's like defying the stereotype there. But in our case, we really took our time to get to know each other before getting married. Like we've been together since 2011, we lived together for a while, we really got to know each other before we made that decision, right?
 
 Actually, whenever I go meet my relatives on big holidays in Korea, sometimes they'll ask how old is Sara, right? Yeah, and when I say she's two years older than me, then all of them are like, "She's pushing 30! Like you have to get married! Oh, you have to get ready for the baby too!" Right? They will always tell me that there are things that I have to do before we hit 30. 
 
@@ -49,23 +49,23 @@ And vice versa, I'm also... men can support the family if women can make more mo
 To, you know, life choices and the baby topic again, we have made it very clear in a few of our videos that we don't want children. It's just personally not for us. And we still get a lot of questions and that social pressure that, you know, what do you mean like you have to, and you're getting older, and it's a must.
 
 
-Yeah, it's **mandatory**, you can't not. As a woman, if someone asks you when you're gonna have a baby, not if you want one, when... because it's always when. They just assume, and you say, "Oh, like, actually, I know we don't, we don't want children." And they'll say, "Oh, you're still young, you can change your mind." 
+Yeah, it's *mandatory*, you can't not. As a woman, if someone asks you when you're gonna have a baby, not if you want one, when... because it's always when. They just assume, and you say, "Oh, like, actually, I know we don't, we don't want children." And they'll say, "Oh, you're still young, you can change your mind." 
 
 So I'm old enough to say I want a baby, but I'm not old enough to say I don't want a baby?
 
 Oh yeah, I've never thought about that.
 
-I know, it's just **ridiculous**, and I've gotten it so many times. It's so **disrespectful** to completely invalidate someone's decision, right?
+I know, it's just *ridiculous*, and I've gotten it so many times. It's so *disrespectful* to completely invalidate someone's decision, right?
 
-And also, **when it comes to** social pressure, I know a lot of, especially probably most of Asian countries feel the same, that men should always have stable jobs. And I'm sure many of young people who are watching this video probably feel the same, that they get the pressure from their parents, right?
+And also, *when it comes to* social pressure, I know a lot of, especially probably most of Asian countries feel the same, that men should always have stable jobs. And I'm sure many of young people who are watching this video probably feel the same, that they get the pressure from their parents, right?
 
 And I had to go through it too. When I was graduating from my university, my parents would tell me that you should have a job, stable job, that you're working office, 9:00 to 5:00, especially big companies. They prefer big companies.
 
-But for some people, yes, I mean, they can maybe feel comfortable working in the office nine to five or nine to six or more. But for some people, **they have totally different desires.** They want to just divide their own time and spend on different things, or maybe they just get too bored in office.
+But for some people, yes, I mean, they can maybe feel comfortable working in the office nine to five or nine to six or more. But for some people, *they have totally different desires.* They want to just divide their own time and spend on different things, or maybe they just get too bored in office.
 
-Yeah, everyone's different. I feel like if you're, if you're really passionate about something and you work in a company in that setting, you know, you're gonna **feel very fulfilled.** Mm-hmm. But if you're a kind of different personality type and you have to be focusing on a few different things at a different time to feel, you know, **stimulated**, that's, that's fine too.
+Yeah, everyone's different. I feel like if you're, if you're really passionate about something and you work in a company in that setting, you know, you're gonna *feel very fulfilled.* Mm-hmm. But if you're a kind of different personality type and you have to be focusing on a few different things at a different time to feel, you know, *stimulated*, that's, that's fine too.
 
-Yeah, so I know **it's always the problems** for young generations, but specifically I want to tell to those young people's parents - so if you're watching, please share this video with your parents because we will take all the blame.
+Yeah, so I know *it's always the problems* for young generations, but specifically I want to tell to those young people's parents - so if you're watching, please share this video with your parents because we will take all the blame.
 
 I know it's hard to bring this kind of topic with your parents, but I know many older generations usually have this mindset of like "always have to have stable jobs", right? But because that's all they kind of knew in their time, so anything else is kind of scary and unfamiliar. Yeah, I understand their perspective too.
 
@@ -78,21 +78,22 @@ Just for example, my friends make music, other friend, he builds, actually does 
 
 Yeah, it's not a fashion.
 
-Yeah, they actually **make money out of it**. It's something different from office work, but they still do have their own passion and they learn skills. So I think it is important to support the children, and also it is important to see what your children really like and what he or she can really do.
+Yeah, they actually *make money out of it*. It's something different from office work, but they still do have their own passion and they learn skills. So I think it is important to support the children, and also it is important to see what your children really like and what he or she can really do.
 
 Yeah, I mean for us personally, you know, you guys have seen our videos, we live rather modestly but we're okay with that because we both worked in companies full time. We both didn't like it. It didn't suit us. We had to try. We didn't like it.
 
-So we thought, you know, why don't we kind of take **this leap of faith** and see if we can, you know, freelance, do freelance jobs half of the time, and the other kind of half the time we can, you know, do YouTube? Hopefully, I mean, this is what we'd love to do. We would rather make, you know, a little less money and love what we do every day than to go to our companies every day and come home like exhausted and just **collapse.**
+So we thought, you know, why don't we kind of take *this leap of faith* and see if we can, you know, freelance, do freelance jobs half of the time, and the other kind of half the time we can, you know, do YouTube? Hopefully, I mean, this is what we'd love to do. We would rather make, you know, a little less money and love what we do every day than to go to our companies every day and come home like exhausted and just *collapse.*
 
 If it weren't for you guys and everyone who's been watching over the past like, you know, two-plus years, we wouldn't have been able to follow our dream. So yeah, I don't know. I guess that's just what we're really passionate about, this kind of topic.
 
-Just kind of, if you think that something could make you really happy if you just took the chance and tried it, do it. Because I think, I know it sounds like really **corny and cliché,** though I think you would regret it more if you didn't do it.
+Just kind of, if you think that something could make you really happy if you just took the chance and tried it, do it. Because I think, I know it sounds like really *corny and cliché,* though I think you would regret it more if you didn't do it.
 
 Yes, so don't limit yourself. No expiry date, there's no expiry date.
 
 All right guys, next video is gonna be about Busan, we have, you know, on Sunday. Bye bye you!
 
 
+### 重點單字
 
 mandatory /ˈmændətɔri/ - 強制的、必須的 (adj.)
 - 📝 *In many countries, it is mandatory to wear a seatbelt while driving.(在許多國家，開車時必須繫安全帶。)*

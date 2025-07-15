@@ -119,80 +119,81 @@ Your progress doesn't end here—click on the next video or explore the addition
 
 ### 重點單字
 
-- *disciplined*：有紀律的  
-  📝 She is very disciplined and studies every day.
 
-- *stick to*：堅持、遵守  
-  📝 If you stick to your plan, you will succeed.
+disciplined /ˈdɪsəplɪnd/ - 有紀律的 (adjective)
+- 📝 *She is very disciplined and studies every day.(她很有紀律，每天都學習。)*
 
-- *I lacked willpower or motivation.*：我缺乏意志力或動力。  
-  📝 I lacked willpower or motivation, so I gave up quickly.
+stick to /stɪk tuː/ - 堅持、遵守 (phrasal verb)
+- 📝 *If you stick to your plan, you will succeed.(如果你堅持你的計劃，你會成功的。)*
 
-- *extremes*：極端  
-  📝 He always goes to extremes in his opinions.
+lacked /lækt/ - 缺乏 (verb, past tense)
+- 📝 *I lacked willpower or motivation, so I gave up quickly.(我缺乏意志力或動力，所以很快就放棄了。)*
 
-- *sustainable*：可持續的  
-  📝 We need sustainable habits to make progress.
+extremes /ɪkˈstriːmz/ - 極端 (noun, plural)
+- 📝 *He always goes to extremes in his opinions.(他在觀點上總是走極端。)*
 
-- *stay consistent*：保持一致、持續  
-  📝 If you stay consistent, your English will improve.
+sustainable /səˈsteɪnəbl/ - 可持續的 (adjective)
+- 📝 *We need sustainable habits to make progress.(我們需要可持續的習慣來取得進步。)*
 
-- *messy*：混亂的  
-  📝 My desk is always messy after studying.
+stay consistent /steɪ kənˈsɪstənt/ - 保持一致、持續 (phrase)
+- 📝 *If you stay consistent, your English will improve.(如果你保持持續，你的英文會進步。)*
 
-- *doable*：可做到的  
-  📝 Learning one new word a day is doable for everyone.
+messy /ˈmesi/ - 混亂的 (adjective)
+- 📝 *My desk is always messy after studying.(學習後我的桌子總是很亂。)*
 
-- *rhythm*：節奏  
-  📝 I found my rhythm after practicing for a week.
+doable /ˈduːəbl/ - 可做到的 (adjective)
+- 📝 *Learning one new word a day is doable for everyone.(每天學一個新單字對每個人來說都是可做到的。)*
 
-- *wild thing*：奇妙的事  
-  📝 The wild thing is, I learned a lot just by listening.
+rhythm /ˈrɪðəm/ - 節奏 (noun)
+- 📝 *I found my rhythm after practicing for a week.(練習一周後我找到了我的節奏。)*
 
-- *ambition*：抱負、野心  
-  📝 Her ambition is to become a fluent English speaker.
+wild thing /waɪld θɪŋ/ - 奇妙的事 (noun phrase)
+- 📝 *The wild thing is, I learned a lot just by listening.(奇妙的是，我僅僅通過聽就學到了很多。)*
 
-- *barrier*：障礙  
-  📝 Fear is the biggest barrier to learning.
+ambition /æmˈbɪʃən/ - 抱負、野心 (noun)
+- 📝 *Her ambition is to become a fluent English speaker.(她的抱負是成為流利的英語使用者。)*
 
-- *I became more aware of*：我變得更有意識到  
-  📝 I became more aware of my mistakes and improved.
+barrier /ˈbæriər/ - 障礙 (noun)
+- 📝 *Fear is the biggest barrier to learning.(恐懼是學習最大的障礙。)*
 
-- *gently*：溫柔地  
-  📝 Please speak gently to new learners.
+became more aware of /bɪˈkeɪm mɔːr əˈwer ʌv/ - 變得更有意識到 (phrase)
+- 📝 *I became more aware of my mistakes and improved.(我變得更有意識到我的錯誤並改進了。)*
 
-- *self-respect*：自尊  
-  📝 Self-respect helps you feel confident.
+gently /ˈʤentli/ - 溫柔地 (adverb)
+- 📝 *Please speak gently to new learners.(請對新學習者說話溫柔一些。)*
 
-- *floated up*：浮現  
-  📝 A good idea floated up while I was walking.
+self-respect /self rɪˈspekt/ - 自尊 (noun)
+- 📝 *Self-respect helps you feel confident.(自尊幫助你感到自信。)*
 
-- *I see it differently*：我看法不同  
-  📝 I see it differently from my classmates.
+floated up /floʊtɪd ʌp/ - 浮現 (phrasal verb)
+- 📝 *A good idea floated up while I was walking.(我走路時一個好想法浮現了。)*
 
-- *aligned with*：與...一致  
-  📝 My goals are aligned with my values.
+see it differently /siː ɪt ˈdɪfərəntli/ - 看法不同 (phrase)
+- 📝 *I see it differently from my classmates.(我和我的同學看法不同。)*
 
-- *momentum*：前進的動力  
-  📝 Once you start, you will build momentum.
+aligned with /əˈlaɪnd wɪð/ - 與...一致 (phrase)
+- 📝 *My goals are aligned with my values.(我的目標與我的價值觀一致。)*
 
-- *keep up with*：跟上  
-  📝 It's hard to keep up with all the new words.
+momentum /moʊˈmentəm/ - 前進的動力 (noun)
+- 📝 *Once you start, you will build momentum.(一旦你開始，你就會建立動力。)*
 
-- *creep in*：慢慢進入  
-  📝 Doubts can creep in when you least expect it.
+keep up with /kiːp ʌp wɪð/ - 跟上 (phrasal verb)
+- 📝 *It's hard to keep up with all the new words.(跟上所有新單字很困難。)*
 
-- *shrink* ：縮小、減少  
-  📝 Don't shrink your dreams, make them bigger.
+creep in /kriːp ɪn/ - 慢慢進入 (phrasal verb)
+- 📝 *Doubts can creep in when you least expect it.(懷疑會在你最不期待的時候慢慢進入。)*
 
-- *chaotic*：混亂的  
-  📝 The city can be chaotic, but I love it.
+shrink /ʃrɪŋk/ - 縮小、減少 (verb)
+- 📝 *Don't shrink your dreams, make them bigger.(不要縮小你的夢想，讓它們更大。)*
 
-- *ever since then*：從那時起  
-  📝 Ever since then, I've been more careful with my words. 
+chaotic /keɪˈɑːtɪk/ - 混亂的 (adjective)
+- 📝 *The city can be chaotic, but I love it.(城市可能很混亂，但我愛它。)*
 
-- *snap back*：迅速回應  
-  📝 I used to snap back without thinking, but now I pause.
-  
-- *boom*：突然發生  
-  📝 When I heard the news, it felt like a boom in my heart.
+ever since then /ˈevər sɪns ðen/ - 從那時起 (phrase)
+- 📝 *Ever since then, I've been more careful with my words.(從那時起，我對我的話語更加小心。)*
+
+snap back /snæp bæk/ - 迅速回應 (phrasal verb)
+- 📝 *I used to snap back without thinking, but now I pause.(我以前會不假思索地迅速回應，但現在我會暫停。)*
+
+boom /buːm/ - 突然發生 (noun/interjection)
+- 📝 *When I heard the news, it felt like a boom in my heart.(當我聽到這個消息時，感覺就像我心中的一聲巨響。)*

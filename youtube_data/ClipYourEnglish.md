@@ -228,3 +228,6 @@ proper /ˈprɑːpər/ - 正確的、適當的 (adjective)
 well-made /wel meɪd/ - 製作精良的 (adjective)
 - 📝 *The movie is just really well-made.(這部電影製作得非常精良。)*
 
+clip /klɪp/ - 剪輯 (verb)
+- 📝 *I like to clip my favorite scenes for practice.(我喜歡剪輯我喜愛的片段來練習。)*
+

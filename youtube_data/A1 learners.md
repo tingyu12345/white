@@ -107,26 +107,7 @@ I say, "Let me get back to you," or I just take a deep breath and sit with the f
 
 **Micro habit:** Build a gap between the trigger and your response—even a few seconds is enough. That small space protects your relationships, your peace, and your future self. Every time you choose to pause, you're building emotional discipline—and that is real strength.
 
----
 
-## Vocabulary Breakdown by Crystal
-Crystal's here to walk you through some of the words and expressions from today's episode. Repeat and whisper them back if you'd like!
-
-- **lack**：to not have enough of something
-- **willpower**：inner ability to do something hard
-- **extremes**：far ends, doing too much or not enough
-- **burn out**：to be so exhausted you feel empty
-- **consistent**：showing up again and again
-- **unpredictable**：keeps changing, never know what's next
-- **doable**：small enough to try, achievable
-- **momentum**：forward energy after starting
-- **ridiculous**：silly or funny, but still works
-- **guilt**：heavy feeling when you think you've done something wrong
-- **gratitude**：feeling thankful
-- **creep in**：enters slowly, often without you realizing
-- **push someone's buttons**：say or do something that instantly makes you upset
-
-Crystal's tip: Choose just one word from this list and let it sit with you today. Whisper it, write it, use it with care.
 
 ---
 
@@ -140,53 +121,78 @@ Your progress doesn't end here—click on the next video or explore the addition
 
 - *disciplined*：有紀律的  
   📝 She is very disciplined and studies every day.
+
 - *stick to*：堅持、遵守  
   📝 If you stick to your plan, you will succeed.
+
 - *I lacked willpower or motivation.*：我缺乏意志力或動力。  
   📝 I lacked willpower or motivation, so I gave up quickly.
+
 - *extremes*：極端  
   📝 He always goes to extremes in his opinions.
+
 - *sustainable*：可持續的  
   📝 We need sustainable habits to make progress.
+
 - *stay consistent*：保持一致、持續  
   📝 If you stay consistent, your English will improve.
+
 - *messy*：混亂的  
   📝 My desk is always messy after studying.
+
 - *doable*：可做到的  
   📝 Learning one new word a day is doable for everyone.
+
 - *rhythm*：節奏  
   📝 I found my rhythm after practicing for a week.
+
 - *wild thing*：奇妙的事  
   📝 The wild thing is, I learned a lot just by listening.
+
 - *ambition*：抱負、野心  
   📝 Her ambition is to become a fluent English speaker.
+
 - *barrier*：障礙  
   📝 Fear is the biggest barrier to learning.
+
 - *I became more aware of*：我變得更有意識到  
   📝 I became more aware of my mistakes and improved.
+
 - *gently*：溫柔地  
   📝 Please speak gently to new learners.
+
 - *self-respect*：自尊  
   📝 Self-respect helps you feel confident.
+
 - *floated up*：浮現  
   📝 A good idea floated up while I was walking.
+
 - *I see it differently*：我看法不同  
   📝 I see it differently from my classmates.
+
 - *aligned with*：與...一致  
   📝 My goals are aligned with my values.
+
 - *momentum*：前進的動力  
   📝 Once you start, you will build momentum.
+
 - *keep up with*：跟上  
   📝 It's hard to keep up with all the new words.
+
 - *creep in*：慢慢進入  
   📝 Doubts can creep in when you least expect it.
+
 - *shrink* ：縮小、減少  
   📝 Don't shrink your dreams, make them bigger.
+
 - *chaotic*：混亂的  
   📝 The city can be chaotic, but I love it.
+
 - *ever since then*：從那時起  
   📝 Ever since then, I've been more careful with my words. 
+
 - *snap back*：迅速回應  
   📝 I used to snap back without thinking, but now I pause.
+  
 - *boom*：突然發生  
   📝 When I heard the news, it felt like a boom in my heart.

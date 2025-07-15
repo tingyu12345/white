@@ -35,10 +35,6 @@
 - "My car just broke down, that's crazy!"
 - "Let me break down what happened to the car in simpler steps."
 
-**使用情境**:
-- 你可能因為悲傷而情緒崩潰
-- 你的車可能因為機械問題而故障
-- 你可以分解某件事來簡化理解
 
 ---
 

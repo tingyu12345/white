@@ -1,16 +1,145 @@
+
+# Your English Sucks - Elizabeth 英語學習分享
 https://www.youtube.com/watch?v=BdvdmGoXtCU&t=219s
 
 ---
 
+## Elizabeth 開場
 
+Your english sucks! Hi I'm Elizabeth. So a lot of people have been asking us: "Hey Elizabeth, what language do you and Eric speak when you guys are at home?" And if you would ask me this question about five months ago, I would have said we only speak Chinese at home. But because we've just had a baby girl, so we've decided that we want to *incorporate* English into our daily life. So we've been making such a huge *effort* to bring more English into our home for her, so that when we go back to the States she can speak to her grandparents, or you know, she doesn't have to go to cram school. So that begs the question: how good is Eric's English? Can he actually speak English *fluently*? Let's ask him and find out.
 
-your english sucks hi i'm elizabeth so a lot of people have been asking us hey elizabeth what language do you and eric speak when you guys are at home and if you would ask me this question about five months ago i would have said we only speak chinese at home but because we've just had a baby girl so we've decided that we want to *incorporate* english into our daily life so we've been making such a huge *effort* to bring more english into our home for her so that when we go back to the states she can speak to her grandparents or you know she doesn't have to go to cram school so that begs the question how good is eric's english can he actually speak english *fluently* let's ask him and find out what's up everyone it's eric today i want to talk about how i learn english the things that i went through and what my thought process was as you can see i'm in the middle of the rice fields and the farms and everything to give you a bit of my *background* as a person who grew up in the countryside of taiwan you barely ever come across anybody who doesn't speak mandarin to a lot of us learning english or just something that we had to do for school exams it was not like a language it was not something that we know that we can use for *communicate*ions so what's the point of learning something if we can actually use it so today i'm making this video to share the things i wish i would have known and i hope it can help you too so it wasn't until the first year of college as an english major oral conversation is a *mandatory* course back then it was mentally *challenging* and i did not enjoy speaking english at all reasons being i was too afraid i would make a lot of mistakes such as use the wrong grammar use the wrong words or maybe the listener won't be able to understand what i'm saying if you can relate to what i'm saying our *mindset* will have to change so how do you think my english was when we first met your english i don't think i ever thought about it actually i mean when we first met you just spoke english i didn't even think about it if it was good or bad i just thought oh he speaks english so that was like a surprise oh he speaks english no it wasn't surprising but it was just like i mean i think a lot of people in taiwan worry about like oh is my english good is my english bad like how's my english yeah but i mean to be honest i don't think we think about that because when i think anyone really cares if your english is good or bad as long as you can *communicate* yeah that's true when we first met i was really self-conscious about my english really especially when your mandarin is that good what i because i knew i was making mistakes i don't know if you noticed i just thought okay i gotta stop making these mistakes honestly i didn't even notice all i just cared about is whether or not we were able to understand each other wow okay i think that that's true for a lot of americans we know that if english is not your first language that's okay like a lot of people know that okay you're not speaking perfect english but that's okay because i can still understand what you're saying and you can understand what i'm saying that's the most important part i think gotcha what do you think about the way i spoke english honestly when i first met you the one thing that i really do remember is that you used a lot of really really big words and it'd be like why it's not necessary to speak like that like i'm not your professor i'm not like grading you like americans when we speak or native speakers native english speakers they speak very simply clearly and concisely we want to say as much as possible in the fastest and most clear way possible we don't want to spend a lot of time using big words even though yeah maybe that word like is really suitable for the situation but we like to use very simple language and you used to do this so much you'd add in these big really *extravagant* words and it's like okay that's not necessary native speakers don't speak like that so i think that's what really *differentiates* the native speaker from a non-native speaker is that it sounds kind of textbook english but the problem is going through school for all these years and those are the words that you learn from the book right because you don't in taiwan you don't actually have *interaction*s or like *personal relationship*s with foreigners when you are at a young age unless your family travels a lot or knows people right right right yeah but i think honestly i think we really don't don't worry so much about speaking the perfect word more so it's just like saying what you want to say right you're meaning out and i think yeah and i think a lot of it has to do with the way that we speak mandarin uh-huh that's right that's right yeah and i think sometimes we try to translate from mandarin to english right right and using those words somehow fits in that situation but to a native speaker it just don't fit right like chinese they use a lot of very flowery language or like very specific terms that we don't actually use in english or we don't even think about i mean we know the word if we hear you say we're going to understand the meaning but we would never speak like that right so i think the conclusion that we can draw from this is be *confident* yeah yeah speak whatever you want to say and don't worry so much about is my english good is it bad just worry about if the person you're speaking to can understand you that's all that matters really yeah yeah and i mean honestly i don't think people are really like if you speak to a foreigner i've never met a foreigner who's like haha your english sucks i've never met someone like that i mean even like okay even if we're really really good friends we might say like oh you slipped on a word you messed up hahaha yeah but it's really it's like we're laughing with each other and we would do that to native speakers as well a perfect example is when your mom notice you make a mistake and she'll be like yeah elizabeth english is your second language exactly exactly so like even my mother will like make jokes with me about this so don't worry like americans are very light-hearted and playful and fun so don't be *intimidated* just laugh along okay so eric i have a question for you okay what did you do to change your *mindset* that helped you be more comfortable to speak english so basically i think what i did was i tried to find as many *opportunity*ies that allow me to speak english such as i signed up for an event held by toeic i was there helping foreigners who's in the *competition* with my broken english at the time i was really nervous but whatever it was i did it and i found i learned a lot through actually using english so i think that's what changed my *mindset* because i feel a sense of *achievement* when i started to use those words so basically you just really pushed yourself to get into English-speaking *environment*s right yes okay okay so i have another question for you yes if you want to give three tips to someone learning English what are the tips that you give them I think of course the first one will be listening okay I remember when I was middle school I had to go for a listening exam and I totally freaked out so how can people listen more I think there are a lot of online *platform*s that you can use such as such as youtube okay just find whatever you're interested in I I was listening to a lot of pockets when I work out or when you're driving you can listen to any type of stuff as long as you're interested okay so the first one listen more yeah the second one second one I think it's you have to uh learn to think in English okay yeah we have to do the same learning when I was learning Chinese I have yeah so because what happens is when you try to translate from your mother language sometimes it causes confusion right it ends up being not natural then yes yeah okay and the more that you do the more your brain will start to develop a new way of thinking so that's my number two okay how about number three then number three is try to find an *environment* oh that's important yeah but okay so say that but in taiwan how do you find an english *environment* so for me what I did was I switched my phone into english okay and then whatever I listen to on youtube is english but how about for people who want to practice their speaking what can they do um try to find english-speaking friends whether it's on the internet or in person I think there's a very good *platform* that I've been using personally okay it's called campaign cambly yes okay I think I've heard of that it's a English speaking there's like English tutors right yes from all english-speaking countries okay I actually used that before I met you really because I I was like I really wanted to practice but I don't know anybody that speaks english at that time okay so you get on the website and what do you do no just kidding man I want to practice my english for me I think the key is one of the main keys is um listening because babies learn to speak by listening that's how babies are taught I have a friend from jordan that's why i picked up a little bit of the greetings and yeah well that's that's good your *pronunciation* was was good yeah apparently you weren't expecting it no because i saw you were from from taiwan yeah i was like no but it was a pleasant surprise yeah yeah can you help me confirm if it's true that beggars over there makes more than what we make here in taiwan uh that is false because begging begging is not allowed in the country really there are no better there are no beggars yeah thank you for watching today's video we hope that everyone lends a lot so we really hope that we can help you and encourage you to speak english don't worry about making mistakes don't worry about oh my english isn't perfect just be be you have fun and enjoy yourself and it's really important to find a *platform* or to find friends that you can speak in english with on a daily basis or once a week twice a week if you would like to check out the website that eric mentioned we have a promo code we have a discount code for you so you can get basically you can get 15 minutes free trial and see if you like it um the code is love live love life so l-o-v-e-l-i-f-e exactly okay so thank you for watching we hope you enjoy and we hope you learned a lot bye see you next time.
+## Eric 的英語學習經歷
+
+What's up everyone, it's Eric. Today I want to talk about how I learn English, the things that I went through, and what my thought process was. As you can see, I'm in the middle of the rice fields and the farms and everything. To give you a bit of my *background*: as a person who grew up in the countryside of Taiwan, you barely ever come across anybody who doesn't speak Mandarin. To a lot of us, learning English was just something that we had to do for school exams. It was not like a language, it was not something that we know that we can use for *communicate*ions. So what's the point of learning something if we can't actually use it? So today I'm making this video to share the things I wish I would have known, and I hope it can help you too.
+
+## 大學時期的挑戰
+
+So it wasn't until the first year of college - as an English major, oral conversation is a *mandatory* course. Back then it was mentally *challenging* and I did not enjoy speaking English at all. Reasons being: I was too afraid I would make a lot of mistakes such as use the wrong grammar, use the wrong words, or maybe the listener won't be able to understand what I'm saying. If you can relate to what I'm saying, our *mindset* will have to change.
+
+## Elizabeth 對 Eric 英語的看法
+
+**Elizabeth:** So how do you think my English was when we first met?
+
+**Eric:** Your English? I don't think I ever thought about it actually. I mean when we first met you just spoke English. I didn't even think about it if it was good or bad, I just thought "Oh, he speaks English." So that was like a surprise.
+
+**Elizabeth:** Oh he speaks English? No, it wasn't surprising but it was just like... I mean I think a lot of people in Taiwan worry about like "Oh is my English good? Is my English bad? Like how's my English?"
+
+**Eric:** Yeah, but I mean to be honest, I don't think we think about that because... I think anyone really cares if your English is good or bad as long as you can *communicate*.
+
+**Elizabeth:** Yeah that's true.
+
+## Eric 的自我意識
+
+**Eric:** When we first met I was really self-conscious about my English, really! Especially when your Mandarin is that good. What I... because I knew I was making mistakes. I don't know if you noticed, I just thought "Okay I gotta stop making these mistakes."
+
+**Elizabeth:** Honestly I didn't even notice. All I just cared about is whether or not we were able to understand each other.
+
+**Eric:** Wow, okay.
+
+**Elizabeth:** I think that that's true for a lot of Americans. We know that if English is not your first language, that's okay. Like a lot of people know that "Okay you're not speaking perfect English," but that's okay because I can still understand what you're saying and you can understand what I'm saying. That's the most important part I think.
+
+**Eric:** Gotcha.
+
+## 使用複雜詞彙的問題
+
+**Elizabeth:** What do you think about the way I spoke English? Honestly when I first met you, the one thing that I really do remember is that you used a lot of really really big words and it'd be like "Why? It's not necessary to speak like that." Like I'm not your professor, I'm not like grading you. Like Americans when we speak - or native speakers, native English speakers - they speak very simply, clearly and concisely. We want to say as much as possible in the fastest and most clear way possible. We don't want to spend a lot of time using big words. Even though yeah, maybe that word like is really suitable for the situation, but we like to use very simple language. And you used to do this so much - you'd add in these big really *extravagant* words and it's like "Okay that's not necessary, native speakers don't speak like that." So I think that's what really *differentiates* the native speaker from a non-native speaker is that it sounds kind of textbook English.
+
+**Eric:** But the problem is going through school for all these years and those are the words that you learn from the book, right? Because you don't... in Taiwan you don't actually have *interaction*s or like *personal relationship*s with foreigners when you are at a young age unless your family travels a lot or knows people.
+
+**Elizabeth:** Right, right, right, yeah. But I think honestly, I think we really don't... don't worry so much about speaking the perfect word. More so it's just like saying what you want to say, right? You're meaning out. And I think yeah...
+
+**Eric:** And I think a lot of it has to do with the way that we speak Mandarin.
+
+**Elizabeth:** Uh-huh, that's right, that's right, yeah. And I think sometimes we try to translate from Mandarin to English.
+
+**Eric:** Right, right. And using those words somehow fits in that situation but to a native speaker it just don't fit, right? Like Chinese, they use a lot of very flowery language or like very specific terms that we don't actually use in English or we don't even think about. I mean we know the word - if we hear you say, we're going to understand the meaning - but we would never speak like that, right?
+
+## 建立自信的重要性
+
+**Elizabeth:** So I think the conclusion that we can draw from this is: be *confident*! Yeah, yeah. Speak whatever you want to say and don't worry so much about "Is my English good? Is it bad?" Just worry about if the person you're speaking to can understand you. That's all that matters really.
+
+**Eric:** Yeah, yeah. And I mean honestly, I don't think people are really like... if you speak to a foreigner, I've never met a foreigner who's like "Haha your English sucks!" I've never met someone like that. I mean even like... okay even if we're really really good friends, we might say like "Oh you slipped on a word, you messed up, hahaha!" Yeah, but it's really... it's like we're laughing with each other and we would do that to native speakers as well. A perfect example is when your mom notice you make a mistake and she'll be like "Yeah Elizabeth, English is your second language!"
+
+**Elizabeth:** Exactly, exactly! So like even my mother will like make jokes with me about this. So don't worry, like Americans are very light-hearted and playful and fun. So don't be *intimidated*, just laugh along.
+
+## Eric 改變心態的方法
+
+**Elizabeth:** Okay so Eric, I have a question for you. Okay? What did you do to change your *mindset* that helped you be more comfortable to speak English?
+
+**Eric:** So basically I think what I did was I tried to find as many *opportunity*es that allow me to speak English. Such as I signed up for an event held by TOEIC. I was there helping foreigners who's in the *competition* with my broken English. At the time I was really nervous, but whatever it was, I did it. And I found I learned a lot through actually using English. So I think that's what changed my *mindset* because I feel a sense of *achievement* when I started to use those words.
+
+**Elizabeth:** So basically you just really pushed yourself to get into English-speaking *environment*s?
+
+**Eric:** Right, yes.
+
+## Eric 的三個英語學習建議
+
+**Elizabeth:** Okay okay, so I have another question for you. Yes? If you want to give three tips to someone learning English, what are the tips that you give them?
+
+**Eric:** I think of course the first one will be listening. Okay? I remember when I was middle school I had to go for a listening exam and I totally freaked out.
+
+**Elizabeth:** So how can people listen more?
+
+**Eric:** I think there are a lot of online *platform*s that you can use, such as... such as YouTube. Okay? Just find whatever you're interested in. I... I was listening to a lot of podcasts when I work out, or when you're driving you can listen to any type of stuff as long as you're interested.
+
+**Elizabeth:** Okay so the first one: listen more. Yeah? The second one?
+
+**Eric:** Second one, I think it's you have to... uh... learn to think in English.
+
+**Elizabeth:** Okay, yeah we have to do the same learning when I was learning Chinese. I have... yeah.
+
+**Eric:** So because what happens is when you try to translate from your mother language, sometimes it causes confusion, right? It ends up being not natural then.
+
+**Elizabeth:** Yes, yeah, okay. And the more that you do, the more your brain will start to develop a new way of thinking. So that's my number two. Okay, how about number three then?
+
+**Eric:** Number three is try to find an *environment*.
+
+**Elizabeth:** Oh that's important, yeah. But okay so... say that. But in Taiwan, how do you find an English *environment*?
+
+**Eric:** So for me what I did was I switched my phone into English. Okay? And then whatever I listen to on YouTube is English. But how about for people who want to practice their speaking? What can they do?
+
+**Elizabeth:** Um... try to find English-speaking friends whether it's on the Internet or in person. I think there's a very good *platform* that I've been using personally.
+
+**Eric:** Okay, it's called campaign... Cambly.
+
+**Elizabeth:** Yes! Okay, I think I've heard of that. It's a English speaking... there's like English tutors, right?
+
+**Eric:** Yes, from all English-speaking countries.
+
+**Elizabeth:** Okay, I actually used that before I met you.
+
+**Eric:** Really? Because I... I was like "I really wanted to practice but I don't know anybody that speaks English at that time."
+
+**Elizabeth:** Okay so you get on the website and what do you do?
+
+**Eric:** No just kidding man, I want to practice my English. For me I think the key is... one of the main keys is... um... listening. Because babies learn to speak by listening. That's how babies are taught. I have a friend from Jordan. That's why I picked up a little bit of the greetings and... yeah.
+
+**Elizabeth:** Well that's... that's good. Your *pronunciation* was... was good.
+
+**Eric:** Yeah apparently you weren't expecting it.
+
+**Elizabeth:** No because I saw you were from... from Taiwan. Yeah I was like "No!" But it was a pleasant surprise. Yeah, yeah. Can you help me confirm if it's true that beggars over there makes more than what we make here in Taiwan?
+
+**Eric:** Uh that is false because begging... begging is not allowed in the country.
+
+**Elizabeth:** Really? There are no better... there are no beggars?
+
+**Eric:** Yeah.
+
+## 結語與推薦
+
+Thank you for watching today's video! We hope that everyone learns a lot. So we really hope that we can help you and encourage you to speak English. Don't worry about making mistakes, don't worry about "Oh my English isn't perfect." Just be... be you! Have fun and enjoy yourself. And it's really important to find a *platform* or to find friends that you can speak in English with on a daily basis, or once a week, twice a week.
+
+If you would like to check out the website that Eric mentioned, we have a promo code - we have a discount code for you. So you can get basically... you can get 15 minutes free trial and see if you like it. Um, the code is "love live love life" - so L-O-V-E-L-I-F-E.
+
+**Eric:** Exactly.
+
+**Elizabeth:** Okay so thank you for watching, we hope you enjoy and we hope you learned a lot. Bye!
+
+**Eric:** See you next time.
 
 
 ## 重點單字（B1/B2）
-
-superhero /ˈsuːpərhɪəroʊ/ - 超級英雄 (noun)
-- 📝 *Many children dream of becoming a superhero when they grow up. (許多孩子夢想長大後成為超級英雄。)*
 
 incorporate /ɪnˈkɔːrpəˌreɪt/ - 納入、融合 (verb)
 - 📝 *We decided to incorporate English into our daily life. (我們決定將英文融入日常生活。)*
@@ -71,5 +200,8 @@ opportunity /ˌɑːpərˈtuːnəti/ - 機會 (noun)
 
 competition /ˌkɑːmpəˈtɪʃən/ - 比賽、競爭 (noun)
 - 📝 *He joined an English speaking competition. (他參加了英語口說比賽。)*
+
+self-conscious /ˌselfˈkɑːnʃəs/ - 自我意識強的 (adj)
+- 📝 *She felt self-conscious about her accent. (她對自己的口音感到自我意識強。)*
 
 ---

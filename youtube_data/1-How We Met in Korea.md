@@ -28,7 +28,7 @@ We actually met on one of the weekends that he was able to come out from the bas
 ---
 
 Do you remember when you told me like: "Hey, I'm a KATUSA"?
-Yes, I was actually very *proud* of myself. I thought she would *definitely* know about KATUSA. So, when I came up to her and I was *introducing* myself, I was saying like: "Hey, I'm a KATUSA, you know...".
+Yes, I was actually very *proud* of myself. I thought she would *definitely* know about KATUSA. So, when I *came up to* her and I was *introducing* myself, I was saying like: "Hey, I'm a KATUSA, you know...".
 
 I had no idea what that was. She had no idea what the f* that was. I met Sarah at the bar. I was with a *group* of *friends*. I was with a group of my friends too. And I was *obviously* so *nervous*. I was drinking and then I saw a lady sitting far from... you know.
 
@@ -90,6 +90,11 @@ Bye~
 ---
 
 ## 重點單字（B1 等級）
+came up to /keɪm ʌp tuː/ - 走近、接近 (phrasal verb)
+- 📝 *I came up to her and asked her name. (我走近她並問她的名字。)*
+
+associate /əˈsoʊsieɪt/ - 聯繫、關聯 (verb)
+- 📝 *We associate KATUSA with the US Army. (我們將KATUSA與美國陸軍聯繫在一起。)*
 
 building /ˈbɪldɪŋ/ - 建築、建造 (noun/verb)
 - 📝 *He was building a subway station. (他正在建造地鐵站。)*

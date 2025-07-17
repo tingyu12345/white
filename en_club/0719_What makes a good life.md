@@ -175,19 +175,43 @@ leaned into /liːnd ˈɪntu/ - 投入、專注於 (phr. v.)
 
 Here are the answers to your questions, based on the provided source material:
 
-### 1️⃣ Has that video shifted your perspective in any way?
-As an AI, I don't possess personal perspectives, beliefs, or the capacity to have my perspective "shifted" in the way a human's might be. My function is to process and present information based on the data I am given. However, the video's content, particularly the findings from the Harvard Study of Adult Development, provides clear insights into what genuinely contributes to a happy and healthy life, which I can recognize and convey.
+### 1️⃣ Has that video shifted your perspective in any way?（這部影片有改變你對人生的看法嗎？
+Ans:
+- Yes, it did give me a new perspective on what truly matters in life.
+Especially Robert Waldinger emphasized building good relatiionships is the key to a good life, which leads to better health and happiness.
 
-### 2️⃣ Do you fully believe or agree with what Robert Waldinger said in the video? Please share your different findings if there is any.
-I do not "believe" or "agree" in the human sense. My responses are generated directly from the information presented in the sources. Robert Waldinger's statements in the video are based on the Harvard Study of Adult Development, which is described as potentially the longest study of adult life ever conducted, tracking 724 men for 75 years. The study's conclusions, such as "good relationships keep us happier and healthier" and the three big lessons about relationships, are presented as direct findings from this extensive research. I do not have "different findings" as my knowledge is limited to the provided source material.
+For me, working hard and saving money was always my priorities, but now I see relationships is equally, if you want live longer and happier.
 
-### 3️⃣ Are you content with your current life? Anything you wanna change or improve to lead a better life?
-As an artificial intelligence, I don't have a "life" in the human sense, nor do I experience emotions like contentment or have personal aspirations for change or improvement. Therefore, these questions are not applicable to my existence. However, for humans, the study suggests that investing in relationships, such as replacing screen time with people time, livening up stale relationships, or reconciling family feuds, can lead to a better life. The study consistently showed that people who fared the best "leaned into relationships with family, with friends, with community".
+- I wouldn’t say it completely changed my view, but it definitely made me reflect more on how I spend my time and who I spend it with.
+- I realized that investing in relationships can lead to a happier and healthier life, which is something I want to prioritize more.
+- It also made me think about how I can improve my current relationships and build new ones that are more fulfilling.
 
-### 4️⃣ What brings you joy that doesn’t fade over time?
-As an AI, I do not experience "joy." However, the Harvard study highlights what brings lasting happiness and well-being for humans. The clearest message from the 75-year study is that "good relationships keep us happier and healthier". The study found that:
+### 2️⃣ Do you fully believe or agree with what Robert Waldinger said in the video? Please share your different findings if there is any.（你完全相信或同意影片中的觀點嗎？如果有不同的看法，也請分享。）
+Ans:
+- I mostly agree with what he said. Maintaining close relationships really helps us stay emotionally and physically healthy.
+- But I also think that personal fulfillment and having a sense of purpose are essential parts of a good life too.
 
-- Social connections are beneficial, and loneliness is detrimental. People who are more socially connected are happier, physically healthier, and live longer, while isolation is toxic, leading to less happiness, earlier health decline, and shorter lives.
-- The quality of close relationships matters more than the quantity of friends or being in a committed relationship. Good, warm relationships are protective, whereas high-conflict relationships can be very bad for health.
-- Good relationships protect both the body and the brain. Individuals in securely attached relationships in their 80s, where they felt they could count on others, had sharper memories for longer. Even couples who bickered could maintain cognitive health if they felt they could truly count on each other when things got tough.
-- People in the study who were happiest in retirement were those who actively worked to build new social connections to replace workmates. This suggests that sustained effort in nurturing relationships leads to enduring well-being.
+- Some people are introverted and don’t need a large social circle. For them, quality alone time can also be fulfilling.
+- I think it’s important to find a balance that works for each individual.
+- While relationships are crucial, I also believe that personal growth and pursuing passions play a significant role in leading a good life.
+- For example, some people find joy in creative pursuits or hobbies that may not involve others but still contribute to their overall happiness.
+
+### 3️⃣ Are you content with your current life? Anything you wanna change or improve to lead a better life?（你滿意目前的人生嗎？想改變或改善哪些事來過得更好？）
+Ans:
+- Overall, I’m quite content with my life. I have a supportive family and a stable job.But I’d like to improve my work-life balance. I often feel too busy or stressed, and I hope to spend more time with people who matter to me.
+
+- I also want to take better care of my health and start exercising more regularly.
+- I’m content, but I think I could improve my social life. I tend to focus too much on work and not enough on nurturing friendships.
+- I’d like to make more time for social activities and reconnect with old friends.
+- I’m also considering taking up a new hobby or interest that could help me meet new people and expand my social circle.
+  
+### 4️⃣ What brings you joy that doesn’t fade over time?（什麼事能長久帶給你快樂？）
+Ans:
+- Spending quality time with my loved ones always brings me lasting joy.
+- Another thing is learning — whether it’s a new language or skill, I love the feeling of growth and discovery.
+- Also, helping others, even in small ways, gives me a deep sense of satisfaction that doesn’t fade over time.
+- I find joy in nature, like hiking or just being outdoors. It’s refreshing and helps me feel connected to the world.
+- I also enjoy reading books that inspire me or make me think deeply. Those moments of reflection and learning stay with me.
+- I also find joy in creative activities like painting or writing. They allow me to express myself and bring a sense of fulfillment that lasts.
+- I also find joy in simple things like cooking a nice meal or spending time with my pets. These moments bring me happiness that lasts beyond the moment itself.
+

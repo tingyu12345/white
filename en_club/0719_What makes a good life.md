@@ -169,6 +169,9 @@ complicated /ˈkɑːmplɪkeɪtɪd/ - 複雜的 (adj.)
 leaned into /liːnd ˈɪntu/ - 投入、專注於 (phr. v.)
 - 📝 *They leaned into building strong relationships. (他們專注於建立牢固的人際關係。)*
 
+priorities /praɪˈɔːrɪtiz/ - 優先事項 (n.)
+- 📝 *We need to set our priorities straight. (我們需要理清優先事項。)*
+
 
 
 ## Questions
@@ -177,24 +180,21 @@ Here are the answers to your questions, based on the provided source material:
 
 ### 1️⃣ Has that video shifted your perspective in any way?（這部影片有改變你對人生的看法嗎？
 Ans:
-- Yes, it did give me a new perspective on what truly matters in life.
-Especially Robert Waldinger emphasized building good relatiionships is the key to a good life, which leads to better health and happiness.
+- Yes, it did give me a new perspective on what really matters in life.
 
-For me, working hard and saving money was always my priorities, but now I see relationships is equally, if you want live longer and happier.
+Especially the speaker emphasized building good relatiionships is the key to a good life, which leads to better health and happiness.
 
-- I wouldn’t say it completely changed my view, but it definitely made me reflect more on how I spend my time and who I spend it with.
-- I realized that investing in relationships can lead to a happier and healthier life, which is something I want to prioritize more.
-- It also made me think about how I can improve my current relationships and build new ones that are more fulfilling.
+For me, working hard and saving money was always my priorities early on, but now I see the importance of relationships
+
+So If I want to live longer and happier, I probably should focus more on my relationships with family and friends.
+
 
 ### 2️⃣ Do you fully believe or agree with what Robert Waldinger said in the video? Please share your different findings if there is any.（你完全相信或同意影片中的觀點嗎？如果有不同的看法，也請分享。）
 Ans:
-- I mostly agree with what he said. Maintaining close relationships really helps us stay emotionally and physically healthy.
-- But I also think that personal fulfillment and having a sense of purpose are essential parts of a good life too.
 
-- Some people are introverted and don’t need a large social circle. For them, quality alone time can also be fulfilling.
-- I think it’s important to find a balance that works for each individual.
-- While relationships are crucial, I also believe that personal growth and pursuing passions play a significant role in leading a good life.
-- For example, some people find joy in creative pursuits or hobbies that may not involve others but still contribute to their overall happiness.
+I agree with most of what the speaker said, having good relationships is good for mental health, because I always face some different situations everyday, sometimes I feel stressed or anxious, after that, if someone is there to support me, it is really helpful, even if just staying with me and listening to me, it really makes me feel better.
+
+I believe that the quality of relationships is more important than the quantity. For me, I have some friends whom I have known for a long time. Although we don't meet often, every time we do, we can still talk as if we just met yesterday, and I feel comfortable with them. So I think it is more important to have a few close friends in your life.
 
 ### 3️⃣ Are you content with your current life? Anything you wanna change or improve to lead a better life?（你滿意目前的人生嗎？想改變或改善哪些事來過得更好？）
 Ans:

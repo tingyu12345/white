@@ -192,18 +192,24 @@ So If I want to live longer and happier, I probably should focus more on my rela
 ### 2️⃣ Do you fully believe or agree with what Robert Waldinger said in the video? Please share your different findings if there is any.（你完全相信或同意影片中的觀點嗎？如果有不同的看法，也請分享。）
 Ans:
 
-I agree with most of what the speaker said, having good relationships is good for mental health, because I always face some different situations everyday, sometimes I feel stressed or anxious, after that, if someone is there to support me, it is really helpful, even if just staying with me and listening to me, it really makes me feel better.
+I agree with most of what the speaker said. Having good relationships is beneficial for mental health, because I face different situations every day. Sometimes I feel stressed or anxious, and when someone is there to support me—even just staying with me and listening—it really helps and makes me feel better.
 
-I believe that the quality of relationships is more important than the quantity. For me, I have some friends whom I have known for a long time. Although we don't meet often, every time we do, we can still talk as if we just met yesterday, and I feel comfortable with them. So I think it is more important to have a few close friends in your life.
+I believe that the quality of relationships is more important than the quantity. For me, some friends I have known for a long time, even though we don't meet often, every time we do, we can still talk as if we just met yesterday, and I feel comfortable with them. So I think it is more important to have a few close friends in your life.
 
 ### 3️⃣ Are you content with your current life? Anything you wanna change or improve to lead a better life?（你滿意目前的人生嗎？想改變或改善哪些事來過得更好？）
 Ans:
-- Overall, I’m quite content with my life. I have a supportive family and a stable job.But I’d like to improve my work-life balance. I often feel too busy or stressed, and I hope to spend more time with people who matter to me.
 
-- I also want to take better care of my health and start exercising more regularly.
-- I’m content, but I think I could improve my social life. I tend to focus too much on work and not enough on nurturing friendships.
-- I’d like to make more time for social activities and reconnect with old friends.
-- I’m also considering taking up a new hobby or interest that could help me meet new people and expand my social circle.
+Overall, I’m pretty happy with my life. I have a stable job, a place to live, and my family. I also have a few close friends I can count on, and I’m really grateful for that.
+
+Most weekdays, my routine is just going to work and coming home, so my social life isn’t very active, and sometimes I get bored. I’ve been thinking about how I could make my social life better.
+
+In 2023, I joined a yoga class because a good friend invited me. The yoga coach was super nice and patient, and every time I finished a class, I felt more relaxed and connected with others. I even made some new friends, so it was a great experience for me.
+
+Last year, I also started going to the gym and took workout classes for six months. I wanted to get healthier, build some muscle, and make exercise a regular habit.
+
+Joining those workout classes was a good decision. I learned the right way to train and build muscle. Even though I didn’t gain a lot of muscle, I feel more energetic than before.
+
+
   
 ### 4️⃣ What brings you joy that doesn’t fade over time?（什麼事能長久帶給你快樂？）
 Ans:

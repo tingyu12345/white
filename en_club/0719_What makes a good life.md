@@ -205,7 +205,7 @@ Most weekdays, my routine is just going to work and coming home, so my social li
 
 In 2023, I joined a yoga class because a good friend invited me. The yoga coach was super nice and patient, and every time I finished a class, I felt more relaxed and connected with others. I even made some new friends, so it was a great experience for me.
 
-Last year, I also started going to the gym and took workout classes for six months. I wanted to get healthier, build some muscle, and make exercise a regular habit.
+Last year, I also started going to the gym and took workout classes for six months. I wanted to get more healthy, build some muscle, and make exercise a regular habit.
 
 Joining those workout classes was a good decision. I learned the right way to train and build muscle. Even though I didn’t gain a lot of muscle, I feel more energetic than before.
 
@@ -213,11 +213,9 @@ Joining those workout classes was a good decision. I learned the right way to tr
   
 ### 4️⃣ What brings you joy that doesn’t fade over time?（什麼事能長久帶給你快樂？）
 Ans:
-- Spending quality time with my loved ones always brings me lasting joy.
-- Another thing is learning — whether it’s a new language or skill, I love the feeling of growth and discovery.
-- Also, helping others, even in small ways, gives me a deep sense of satisfaction that doesn’t fade over time.
-- I find joy in nature, like hiking or just being outdoors. It’s refreshing and helps me feel connected to the world.
-- I also enjoy reading books that inspire me or make me think deeply. Those moments of reflection and learning stay with me.
-- I also find joy in creative activities like painting or writing. They allow me to express myself and bring a sense of fulfillment that lasts.
-- I also find joy in simple things like cooking a nice meal or spending time with my pets. These moments bring me happiness that lasts beyond the moment itself.
+- For me, doing something I love, even just a little thing that brings me a little joy, I think that can help me feel happy and fulfilled. As long as I can do it constantly.
 
+Finding things that are beneficial to people and making a positive impact in their lives.
+by doing that, I feel like helping others is a way to help myself, when you help others, you also can have connections with them, and just like building positive relationships.
+
+Take of myself, I think that’s also important. I try to eat healthy food, exercise regularly, and get enough sleep. When I take care of myself, I feel better physically and mentally.

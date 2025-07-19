@@ -192,30 +192,52 @@ So If I want to live longer and happier, I probably should focus more on my rela
 ### 2️⃣ Do you fully believe or agree with what Robert Waldinger said in the video? Please share your different findings if there is any.（你完全相信或同意影片中的觀點嗎？如果有不同的看法，也請分享。）
 Ans:
 
-I agree with most of what the speaker said. Having good relationships is beneficial for mental health, because I face different situations every day. Sometimes I feel stressed or anxious, and when someone is there to support me—even just staying with me and listening—it really helps and makes me feel better.
+I agree with most of what the speaker said. Having good relationships is beneficial for mental health, because I Sometimes I feel stressed or anxious, and if someone is there to support me—even just staying with me and listening—it really helps and makes me feel better.
 
-I believe that the quality of relationships is more important than the quantity. For me, some friends I have known for a long time, even though we don't meet often, every time we do, we can still talk as if we just met yesterday, and I feel comfortable with them. So I think it is more important to have a few close friends in your life.
+I believe that the quality of relationships is more important than the quantity. For me, some friends I have known for a long time, even though we don't meet often, every time we do, we can still talk like we just met yesterday, and I feel comfortable with them. So I think it is important to have a few close friends in your life.
 
 ### 3️⃣ Are you content with your current life? Anything you wanna change or improve to lead a better life?（你滿意目前的人生嗎？想改變或改善哪些事來過得更好？）
 Ans:
 
-Overall, I’m pretty happy with my life. I have a stable job, a place to live, and my family. I also have a few close friends I can count on, and I’m really grateful for that.
+Overall, I’m satisfied with my life.
+I have a stable job, a place to live, and a good family. I also have a few close friends I can rely on, and I’m really grateful for that.
 
-Most weekdays, my routine is just going to work and coming home, so my social life isn’t very active, and sometimes I get bored. I’ve been thinking about how I could make my social life better.
+I sometimes feel a bit bored.
+Most weekdays, my routine is go to work and come home.
+my social life isn’t very active. 
 
-In 2023, I joined a yoga class because a good friend invited me. The yoga coach was super nice and patient, and every time I finished a class, I felt more relaxed and connected with others. I even made some new friends, so it was a great experience for me.
+so I did some things to try to change that.
 
-Last year, I also started going to the gym and took workout classes for six months. I wanted to get more healthy, build some muscle, and make exercise a regular habit.
+For example, the year before last year, I joined a yoga class because my friend invited me.
+The coach was really kind and patient, and every time I finished the class, I felt more relaxed and clam — I also made some new friends there, it was a wonderful experience for me.
 
-Joining those workout classes was a good decision. I learned the right way to train and build muscle. Even though I didn’t gain a lot of muscle, I feel more energetic than before.
+Last year, I also started going to the gym and took workout classes for six months.
 
+My goal was to build some muscle, and try to exercise regularly.
 
+Joining those classes was a good decision.
+
+Ilearned how to train properly and understood more about fitness. Even though I didn’t gain a lot of muscle, I feel more energetic and motivated than before.
   
 ### 4️⃣ What brings you joy that doesn’t fade over time?（什麼事能長久帶給你快樂？）
 Ans:
-- For me, doing something I love, even just a little thing that brings me a little joy, I think that can help me feel happy and fulfilled. As long as I can do it constantly.
+For me, doing something I truly enjoy — even just small things — it's ok, as long as I can keep doing it regularly.
 
-Finding things that are beneficial to people and making a positive impact in their lives.
-by doing that, I feel like helping others is a way to help myself, when you help others, you also can have connections with them, and just like building positive relationships.
+Finding ways to benefit people and make a positive impact on their lives is also good.
+sometimes I feel like helping people is also a way of helping myself — it creates opportunities to connect with people and build meaningful relationships.
 
-Take of myself, I think that’s also important. I try to eat healthy food, exercise regularly, and get enough sleep. When I take care of myself, I feel better physically and mentally.
+Taking care of myself is important too.
+I try to eat healthy, exercise regularly, and get enough sleep. When I look after my physical and mental health, I feel more balanced and energized.
+
+Regularly showing appreciation for small things can shift focus to the positive.
+Don't take anything for *granted*. 
+
+For example, say "thank you" to your partner for making dinner.
+
+### 單字 中翻英 英翻中
+
+gratitude /ˈɡrætɪtuːd/ - 感激、感謝 (n.)
+- 📝 *Expressing gratitude can improve your mood. (表達感激可以改善你的情緒。)*
+
+gestures /ˈdʒestʃərz/ - 手勢、姿態 (n.)
+- 📝 *Small gestures can strengthen relationships. (小小的姿態可以增強人際關係。)*

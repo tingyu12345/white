@@ -6,7 +6,7 @@ We don't know if we're going to use this video or not, but we are here to *adopt
 
 So we ended up *adopting* the kitty that we *mentioned* before. This is Beimo. Basically we have been thinking about getting a cat for about a year now, and we knew we wanted to like *adopt* a cat rather than like buy one. And we wanted an adult cat, not a kitten. We've been following this online group for about a little over half a year, and we just we were kind of keeping an eye on the post about animals who needed homes. 
 
-He popped up one day probably about a week ago and I was like "Wow, he's a really sweet cat." The previous owner, basically the guy who was taking care of him, was super nice guy and he said that Beimo was left at a vet clinic when he was about 6 months old. And the first owners had already like neutered him and even declawed him, which is something I wouldn't personally do myself. I don't agree with declawing surgery, but he's not sensitive about it. He's fine and he has his all of his vaccinations and everything like that. 
+He *popped up* one day probably about a week ago and I was like "Wow, he's a really sweet cat." The previous owner, basically the guy who was taking care of him, was super nice guy and he said that Beimo was left at a *vet clinic* when he was about 6 months old. And the first owners had already like *neutered* him and even declawed him, which is something I wouldn't personally do myself. I don't agree with declawing surgery, but he's not sensitive about it. He's fine and he has his all of his *vaccinations* and everything like that. 
 
 So that guy took him in and fostered Beimo for a while, but he's moving back to America soon so he was trying to find a more *permanent* home for him. So we ended up uh taking in Beimo and the guy was really nice. He gave us like all the *supplies* that he had like a cat carrier and litter box and even like food and things like that.
 
@@ -68,3 +68,14 @@ adjust /əˈdʒʌst/ - 適應、調整 (verb)
 release /rɪˈliːs/ - 發布、釋放 (verb)
 - 📝 *We couldn't release the video until Sunday. (我們直到星期天才發布影片。)*
 
+vet clinic /vɛt ˈklɪnɪk/ - 獸醫診所 (noun)
+- 📝 *We took the cat to the vet clinic for a check-up. (我們帶貓去獸醫診所檢查。)*
+
+neutered /ˈnjuːtərd/ - 絕育的 (adj.)
+- 📝 *The cat was neutered before we adopted him. (我們領養的貓已經絕育了。)*
+
+vaccinations /ˌvæksɪˈneɪʃənz/ - 疫苗接種 (noun)
+- 📝 *The cat has all his vaccinations up to date. (這隻貓的疫苗接種都是最新的。)*
+
+popped up /pɒpt ʌp/ - 突然出現 (phrasal verb)
+- 📝 *The cat popped up on our radar last week. (這隻貓上週突然出現在我們的視野中。)*
